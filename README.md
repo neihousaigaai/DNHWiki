@@ -21,14 +21,14 @@ Bài viết này được dịch có bổ sung và chỉnh sửa từ Wiki của
 # Giới thiệu 
 
 Chào mừng tới [Dạy Nhau Học](https://daynhauhoc.com/) hay thường được gọi tắt là DNH,
-Ở DNH, mọi người có thể đặt gần như toàn bộ các câu hỏi liên quan trực tiếp tới lập trình, đời sống của lập trình viên hay đến những chuyện trên trời dưới đất, tán gẫu, tâm sự linh tinh. Tuy nhiên ở DNH không chấp nhận những câu hỏi liên quan tới chính trị, tình dục, xúc phạm người khác. Để rõ hơn thì các bạn hãy xem [DNH Guideline](https://github.com/daynhauhoc/meta/blob/master/guidelines.md) được soạn sẵn. Ngoài ra, DNH cũng sẽ không chào đón những câu hỏi đã được giải đáp kỹ trong phần [F&Q](https://github.com/drgnz/DNHWiki/blob/master/faq.md) (Những câu hỏi hay hỏi). **Những topic vi phạm sẽ bị đóng topic và xóa khỏi diễn đàn nên mọi người hãy để ý và đặt câu hỏi cho đúng.**
+Ở DNH, mọi người có thể đặt gần như toàn bộ các câu hỏi liên quan trực tiếp tới lập trình, đời sống của lập trình viên hay đến những chuyện trên trời dưới đất, tán gẫu, tâm sự linh tinh. Tuy nhiên ở DNH không chấp nhận những câu hỏi liên quan tới chính trị, tình dục, xúc phạm người khác. Để rõ hơn thì các bạn hãy xem [DNH Guideline](https://github.com/daynhauhoc/meta/blob/master/guidelines.md) được soạn sẵn. Ngoài ra, DNH cũng sẽ không chào đón những câu hỏi đã được giải đáp kỹ trong phần [FAQ](https://github.com/drgnz/DNHWiki/blob/master/faq.md) (Những câu hỏi hay hỏi). **Những topic vi phạm sẽ bị đóng topic và xóa khỏi diễn đàn nên mọi người hãy để ý và đặt câu hỏi cho đúng.**
 
 <a name="question"></a>
 # Đặt câu hỏi như thế nào cho đúng?
 
 ## Quy định nhỏ khi viết một bài viết:
 
-- Xem phần [F&Q](https://github.com/drgnz/DNHWiki/blob/master/faq.md) xem có câu hỏi của mình chưa, và nếu rồi xem câu trả lời có đủ chưa. Nếu chưa, bạn có thể tạo topic mới và đưa ra cái **còn thiếu** trong phần [F&Q](https://github.com/drgnz/DNHWiki/blob/master/faq.md).
+- Xem phần [FAQ](https://github.com/drgnz/DNHWiki/blob/master/faq.md) xem có câu hỏi của mình chưa, và nếu rồi xem câu trả lời có đủ chưa. Nếu chưa, bạn có thể tạo topic mới và đưa ra cái **còn thiếu** trong phần [FAQ](https://github.com/drgnz/DNHWiki/blob/master/faq.md).
 - Đảm mình là tiêu đề của mình dễ hiểu cho mọi người. Một tựa đề hay cũng giúp bạn thu hút người khác giúp đỡ!
 - Đảm bảo bài viết phải được chỉnh sửa sao cho dễ đọc, dễ nhìn. Và khuyên các bạn chỉnh sửa lại theo [Markdown](https://daynhauhoc.com/t/markdown-trong-daynhauhoc-com/11040) của DNH.
 - Post code thay vì hình chụp để người giúp đỡ dễ copy code hơn. Và nếu được nên chĩ rõ sai dòng nào, đoạn code nào để người giúp đỡ có thể tiếp cận vấn đề nhanh hơn.
