@@ -51,20 +51,20 @@
 ## Ngôn ngữ khác:
 
 - C\# 
-  - [Microsoft Visual Studio](https://www.visualstudio.com/)
-  - [MonoDevelop][http://monodevelop.com/]
+  - [Microsoft Visual Studio](https://www.visualstudio.com/) - Chỉ trên Windows
+  - [MonoDevelop](http://monodevelop.com/) - Đa nền tảng
 - Pascal
-  - [Free Pascal][http://freepascal.org] - Dành cho các bạn nào quen với giao diện Turbo/Borland Pascal; Đa nền tảng
-  - [Lazarus IDE][http://www.lazarus-ide.org/] - Hỗ trợ Drag & Drop, Làm App với Pascal; Đa nền tảng
+  - [Free Pascal](http://freepascal.org) - Dành cho các bạn nào quen với giao diện Turbo/Borland Pascal; Đa nền tảng
+  - [Lazarus IDE](http://www.lazarus-ide.org/) - Hỗ trợ Drag & Drop, Làm App với Pascal; Đa nền tảng
 - Perl 
 - Ruby
-  - [RubyMine][https://www.jetbrains.com/ruby/]
+  - [RubyMine](https://www.jetbrains.com/ruby/) - Đa nền tảng, có phí (Miễn phí 1 năm cho sinh viên)
 - Python
-  - [PyCharm Community Edition][https://www.jetbrains.com/pycharm/] - Đa nền tảng
+  - [PyCharm Community Edition](https://www.jetbrains.com/pycharm/) - Đa nền tảng
 - PHP
-  - [PHPStorm][https://www.jetbrains.com/phpstorm/]
+  - [PHPStorm](https://www.jetbrains.com/phpstorm/) - Đa nền tảng, có phí (Miễn phí 1 năm cho sinh viên)
 - Javascript
-  - [WebStorm][https://www.jetbrains.com/webstorm/]
+  - [WebStorm](https://www.jetbrains.com/webstorm/) - Đa nền tảng, có phí (Miễn phí 1 năm cho sinh viên)
 
   
 ## Quản lý source:
