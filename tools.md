@@ -20,6 +20,7 @@
 - [CodeLite](https://codelite.org/) - Đa nền tảng
 - [Qt Creator](https://www.qt.io/) - Lập trình GUI với C++, đa nền tảng
 - [XCode](https://developer.apple.com/xcode/) - Chỉ dành cho MacOS
+- [Geany](http://www.geany.org/) - Đa nền tảng
 
 ### Tùy chọn:
 
@@ -51,16 +52,21 @@
 
 - C\# 
   - [Microsoft Visual Studio](https://www.visualstudio.com/)
-  - MonoDevelop
+  - [MonoDevelop][http://monodevelop.com/]
 - Pascal
-  - Free Pascal
-  - Lazarus IDE 
+  - [Free Pascal][http://freepascal.org] - Dành cho các bạn nào quen với giao diện Turbo/Borland Pascal; Đa nền tảng
+  - [Lazarus IDE][http://www.lazarus-ide.org/] - Hỗ trợ Drag & Drop, Làm App với Pascal; Đa nền tảng
 - Perl 
 - Ruby
+  - [RubyMine][https://www.jetbrains.com/ruby/]
 - Python
+  - [PyCharm Community Edition][https://www.jetbrains.com/pycharm/] - Đa nền tảng
 - PHP
+  - [PHPStorm][https://www.jetbrains.com/phpstorm/]
 - Javascript
+  - [WebStorm][https://www.jetbrains.com/webstorm/]
 
+  
 ## Quản lý source:
 
 ### Phiên bản Phân phối (Distributed)
