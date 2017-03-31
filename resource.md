@@ -114,11 +114,23 @@ Phần này được dịch và tham khảo từ Reddit
 <a name="book"></a>
 # Sách
 
+## Tiếng Anh:
+
 - [Free tech book](http://www.freetechbooks.com/) - 100% Free
 - [Awesome list on Github](https://github.com/sindresorhus/awesome)
 - [Free programming books on Github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [The yellow book](http://www.csharpcourse.com/) - Cho bạn nào muốn học C#
 - [Invent with Python](http://inventwithpython.com/) - Tổng hợp sách Free cho Python
+- [Tổng hợp sách Javascript](http://jsbooks.revolunet.com/) - Miễn phí
+- [Tổng hợp sách Python](http://pythonbooks.revolunet.com/) - Miến phí
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) by Abelson and Sussman
+- [Sách C++ nên đọc](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [Sách C nên đọc](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
+- [Sách nên đọc cho developer](http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html)
+- [Sách programmer nên đọc](http://web.archive.org/web/20150518004457/http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+
+## Được chia sẽ bởi cộng đồng DNH:
+
 - [Chia sẻ tài liệu C/C++](https://daynhauhoc.com/t/wiki-chia-se-tai-lieu-lap-trinh-c-c/463) topic của [nhtuan](https://daynhauhoc.com/users/nhtuan)
 - [chia sẽ sách lập trình C++ và Java](https://daynhauhoc.com/t/share-sach-cho-cac-b-n-c-c-java/20430) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
 - [Kho sách lập trình](https://daynhauhoc.com/t/chia-se-sach-lap-trinh-cho-cac-ban/24124) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
