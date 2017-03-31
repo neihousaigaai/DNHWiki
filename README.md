@@ -57,16 +57,16 @@ Trong trường hợp nếu câu hỏi của bạn dù tìm kiếm mà không ra
 
 Nói kỹ hơn về việc cung cấp thông tin cho bài viết. Để cho muốn được giải đáp nhanh, bạn nên cung cấp thông tin rõ cho người đọc. Cứ càng nhiều thông tin, thì người giúp đỡ sẽ dễ dàng tiếp cận câu hỏi của bạn và đưa ra câu trả lời nhanh chóng hơn. Sau đây là một vài gợi ý giúp bạn đưa ra thông tin hữu ích cho bài viết:
 
-1. Nếu câu hỏi là về lập trình:
+- Nếu câu hỏi là về lập trình
   1. Yêu cầu đề của code bạn đang hiện thực. Chức năng gì, input và output như thế nào.
   2. Bạn đang gặp vấn đề gì? Lỗi gì? Ghi rõ tên lỗi bạn biết được!
   3. Chương trình của bạn chạy sai so với đề yêu cầu như thế nào?
   4. Bạn đã làm được gì trong quá trình sữa lỗi?
-2. Nếu là một câu hỏi mang tính chất thảo luận:
+- Nếu là một câu hỏi mang tính chất thảo luận:
   1. Đề tài thảo luận là gì?
   2. Những người khác nghĩ gì về đề tài này
   3. Suy nghĩ của bạn về đề tài này
-3. Nếu là một câu hỏi ngẫu nhiên:
+- Nếu là một câu hỏi ngẫu nhiên:
   1. Nội dung chính của vấn đề bạn đang gặp (Làm sao hết ế, Làm sao pro như Bill Gates, ...)
   2. Thông tin cần giúp đỡ
 
