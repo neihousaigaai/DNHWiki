@@ -58,7 +58,7 @@ Phần này được dịch và tham khảo từ Reddit
   - [Learnpython](http://www.learnpython.org/)
   - [Invent with python](http://inventwithpython.com/) - Sách miễn phí đọc online
   - [Learn python the hard way](https://learnpythonthehardway.org/book/)
-  - [Program Arcade Game with Python and Pygame)(http://programarcadegames.com/)
+  - [Program Arcade Game with Python and Pygame](http://programarcadegames.com/)
   
 <a name="onlineresource-eng-web"></a>
 - Lập trình web:
@@ -119,9 +119,9 @@ Phần này được dịch và tham khảo từ Reddit
 - [Free programming books on Github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [The yellow book](http://www.csharpcourse.com/) - Cho bạn nào muốn học C#
 - [Invent with Python](http://inventwithpython.com/) - Tổng hợp sách Free cho Python
-- [Chia sẻ tài liệu C/C++](https://daynhauhoc.com/t/wiki-chia-se-tai-lieu-lap-trinh-c-c/463) - Topic của [nhtuan](https://daynhauhoc.com/users/nhtuan)
-- [chia sẽ sách lập trình C++ và Java](https://daynhauhoc.com/t/share-sach-cho-cac-b-n-c-c-java/20430) - của [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
-- [Kho sách lập trình](https://daynhauhoc.com/t/chia-se-sach-lap-trinh-cho-cac-ban/24124) - của [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
-- [Ebook lập trình tổng hợp](https://daynhauhoc.com/t/tai-lieu-ebook-eng-viet-it/17689) - chia sẽ bởi [Lê Minh Đăng](https://daynhauhoc.com/users/minhdang)
+- [Chia sẻ tài liệu C/C++](https://daynhauhoc.com/t/wiki-chia-se-tai-lieu-lap-trinh-c-c/463) topic của [nhtuan](https://daynhauhoc.com/users/nhtuan)
+- [chia sẽ sách lập trình C++ và Java](https://daynhauhoc.com/t/share-sach-cho-cac-b-n-c-c-java/20430) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
+- [Kho sách lập trình](https://daynhauhoc.com/t/chia-se-sach-lap-trinh-cho-cac-ban/24124) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
+- [Ebook lập trình tổng hợp](https://daynhauhoc.com/t/tai-lieu-ebook-eng-viet-it/17689) chia sẽ bởi [Lê Minh Đăng](https://daynhauhoc.com/users/minhdang)
 - [Bảo Mật Nhập Môn](https://daynhauhoc.com/t/gioi-thieu-ebook-tu-viet-bao-mat-nhap-mon-bao-mat-co-ban-cho-developer-free-download/40010) của [Huy Hoàng Phạm](https://daynhauhoc.com/users/Huy_Hoang_Pham)
 - [Tài liệu hay về Olympic tin học](https://daynhauhoc.com/t/tai-lieu-hay-ve-c-c-tong-hop-cac-bai-toan-de-va-kho-danh-cho-dan-luyen-olympic-tin-hoc/2210) - topic của [Huy Nguyen](https://daynhauhoc.com/users/david15894)
