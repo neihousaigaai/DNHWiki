@@ -128,6 +128,9 @@ Phần này được dịch và tham khảo từ Reddit
 - [Sách C nên đọc](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
 - [Sách nên đọc cho developer](http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html)
 - [Sách programmer nên đọc](http://web.archive.org/web/20150518004457/http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+- [Sách miễn phí tốt để tự học lập trình](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books)
+- [Sách được nhắc tới nhiều trên Hacker news](http://hackernewsbooks.com/)
+- [Sách được nhắc tới nhiều trên StackOverflow](http://www.dev-books.com/)
 
 ## Được chia sẽ bởi cộng đồng DNH:
 
