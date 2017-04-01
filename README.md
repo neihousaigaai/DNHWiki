@@ -178,11 +178,11 @@ Bạn không cần phải là một chuyên gia để trả lời các câu hỏ
 - Đọc kỹ câu hỏi trước khi trả lời. Có thể hỏi lại chủ topic nếu chưa hiểu kỹ câu hỏi.
 - Nếu trả lời bằng code, đảm bảo code có thể chạy được; và nên comment rõ ràng, chú thích code để tăng tính dễ hiểu
 - Cố gắng **hướng dẫn người hỏi giải quyết vấn đề** hơn là **cung cấp lời giải** cho câu hỏi được hỏi một cách trực tiếp, đặc biệt là các câu hỏi đơn giản, hoặc nhờ giải giùm bài tập, liên quan tới bài tập.
-- Nên tìm trả lời một cách chính xác ngay từ đầu. Và nếu có sai, nên chỉnh sửa lại hoặc trả lời lại bằng một câu trả lời đúng.
+- Nên tìm một cách trả lời chính xác ngay từ đầu. Nếu có sai, nên chỉnh sửa lại hoặc trả lời lại bằng một câu trả lời đúng.
 - Giúp người hỏi sửa lại thông tin sai trong quá trình hỏi đáp cũng như giúp đỡ nhưng người tham gia khác.
 - Nếu có đưa link về một bài viết nào đó, nên đọc sơ qua bài viết ấy để xem có đáp ứng yêu cầu người hỏi không cũng như các câu trả lời có giải đáp được phần nào không. Tránh đưa link xấu, virus, không đủ thông tin và thông tin thiếu chính xác.
 - Không được gắn Quảng cáo, MMO vào bất kỳ link nào!
-- Luôn sẵn sàng trả lời những câu hỏi tiếp theo. Vì nhiều lúc có thể bạn hiểu, nhưng khi ghi câu trả lời ra thì có thể người khác đọc không hiểu. Ngoài ra có thể sẽ có những câu hỏi tiếp theo liên quan tới phần bạn trả lời, nên đừng bỏ ngang topic khi người hỏi chưa xác nhận câu trả lời đúng / hiệu quả nhất.
+- Luôn sẵn sàng trả lời những câu hỏi tiếp theo, vì nhiều lúc có thể bạn hiểu, nhưng khi ghi câu trả lời ra thì có thể người khác đọc không hiểu. Ngoài ra có thể sẽ có những câu hỏi tiếp theo liên quan tới phần bạn trả lời, nên đừng bỏ ngang topic khi người hỏi chưa xác nhận câu trả lời đúng / hiệu quả nhất.
 
 Đọc thêm: [Answering Technical Questions Helpfully](http://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/)
 
