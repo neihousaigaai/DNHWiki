@@ -2,22 +2,15 @@
 
 Các bạn vui lòng <kbd>Ctrl + F</kbd> để tìm kiếm câu hỏi hoặc dùng công cụ tìm kiếm của Github nhé.
 
+# Mục lục
+Update later
+
+------
+
+# Các câu hỏi hay gặp nhất
+
 ## Làm sao để học lập trình?
 Đây là một trong những câu hỏi phải nói là rất rất nhiều người hỏi khi bước vào con đường lập trình. [@Working in process]
-
-## Chia category trong DNH như thế nào?
-- Programming - Danh cho tất cả các câu hỏi liên quan tới lập trình
-- Dev chat - Tán gẫu, chát chít vói các dev. Bạn muốn tán gẫu, tư vấn, trao đổi, hỏi han linh tinh mà có kèm một chút trò chuyện, hãy chọn category này
-- Randomq - Câu hỏi không liên quan tới lập trình, như làm sao để cài phần mềm abc, máy bị hư, sữa lỗi IDE, ...
-- Fun - Share linh tinh mọi thứ giúp DNH giải trí. Bạn cũng có thể khoe Project của bạn ở category này, hay thử thách, đố vui mọi người
-- Hacker news - Mục này dùng để share tin tức mà các bạn cho là thú vị chú không phải là mục để mấy anh hacker tán gẫu đâu nhé :D
-- English - Hỏi đáp, chia sẽ về Tiếng Anh là vô đây hết.
-- Jobs - Đăng tuyển nhân sự hoặc cho các bạn nào muốn tìm việc. Các bài viết ở category này sẽ tự động đóng sau 7 ngày.
-- Meta - Muốn góp ý cho DNH? Muốn cống hiến cho DNH? Có ý tưởng hay giúp DNH phát triển thì hãy bỏ vào category này!
-- Share - Category Share để share mọi thứ bạn thấy hay và giúp ích cho quá trình học lập trình, như: Tài liệu, blog hay, ... Ngoài ra Share gồm 2 sub category là Videos và Writes. 
-  - Share-Video thường dùng để chia sẽ các Video học tập, hướng dẫn về lập trình. Nếu video vui thì các bạn hãy cho vô Category Fun thay vì Share-Videos nhé. 
-  - Share-Writes dùng để chia sẽ các bài viết các bạn đọc được, hoặc có thể là do bạn tự viết và chia sẽ. 
-- Secret - Category này được ẩn và tất nhiên nó ko phải tên Secret ;) Chỉ dành cho thành viên Level 3 trở lên mới vào được. Deepweb đấy! ;)
 
 ## Nên học ngôn ngữ nào đầu tiên?
 Các câu hỏi liên quan với câu hỏi này là: **"Học ngôn ngữ nào tốt nhất?"**, **"Ngôn ngữ nào dễ học cho người mới?"**, ...
@@ -58,20 +51,29 @@ Bạn muốn làm Hacker? Hãy đọc bài viết này: [How To Become Hacker](h
 Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho các hacker tương lai đây! Hãy đọc bài gốc của bài viết trên: [How To Become Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
 ;) Will you accept this challenge like a hacker?
+[Working in process]
+
+------
+
+# Nghề nghiệp, định hướng
+
+## Lập trình gì thì kiếm nhiều tiến?
+
+## Lập trình nhúng thì nên học gì?
 
 ## An toàn thông tin thì học gì?
 
-## Lập trình có cần phải giỏi toán không?
+------
 
-## Khi lập trình thì học cái gì thì kiếm được nhiều tiền nhất?
+# Câu hỏi về trường lớp, bằng cấp
 
-## Sách nào tốt nhất để học lập trình?
-
-## Nơi nào tốt nhất để học lập trình?
-
-## Dân lập trình có cần bằng cấp không?
+## Lập trình có quan trọng bằng cấp không?
 
 ## Đại học nào tốt để học lập trình / an toàn thông tin?
+
+------
+
+# Làm sao để làm X, học Y
 
 ## Làm sao để tạo phần mềm?
 
@@ -79,5 +81,69 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 
 ## Làm sao để làm website?
 
-## Lập trình nhúng thì nên học gì?
+------
 
+# Câu hỏi về tài nguyên học
+
+## Sách nào tốt nhất để học lập trình?
+
+## Nơi nào tốt nhất để học lập trình?
+
+------
+
+# Các điều lo lắng
+
+## Lập trình có cần phải giỏi toán không?
+
+## Năm nay X tuổi, có quá trễ để học lập trình?
+
+## Lập trình có khó không?
+
+------
+
+# Cái gì tốt nhất?
+
+- Tham khảo link Reddit - [A collection of 150+ "what are the best" dev questions with answers](https://www.reddit.com/r/learnprogramming/comments/3r7lhp/a_collection_of_150_what_are_the_best_dev/)
+- Update cho môi trường Việt Nam sau
+
+------
+
+# Các câu hỏi hay hỏi khi học lập trình
+
+## Làm thế nào để master một ngôn ngữ?
+
+## Nắm vững ngôn ngữ là như thế nào?
+
+## Có nên dùng IDE khi mới học lập trình?
+
+## Có nên học nhiều ngôn ngữ cùng lúc?
+
+## Tìm cảm hứng học tập
+
+## Có nên học những ngôn ngữ đang hot?
+
+## Mua máy tính cấu hình nào để học lập trình?
+
+------
+
+# Câu hỏi về DNH
+
+## Chia category trong DNH như thế nào?
+- **Programming** - Danh cho tất cả các câu hỏi liên quan tới lập trình
+- **Dev chat** - Tán gẫu, chát chít vói các dev. Bạn muốn tán gẫu, tư vấn, trao đổi, hỏi han linh tinh mà có kèm một chút trò chuyện, hãy chọn category này
+- **Randomq** - Câu hỏi không liên quan tới lập trình, như làm sao để cài phần mềm abc, máy bị hư, sữa lỗi IDE, ...
+- **Fun** - Share linh tinh mọi thứ giúp DNH giải trí. Bạn cũng có thể khoe Project của bạn ở category này, hay thử thách, đố vui mọi người
+- **Hacker News** - Mục này dùng để share tin tức mà các bạn cho là thú vị chú không phải là mục để mấy anh hacker tán gẫu đâu nhé :D
+- **English** - Hỏi đáp, chia sẽ về Tiếng Anh là vô đây hết.
+- **Jobs** - Đăng tuyển nhân sự hoặc cho các bạn nào muốn tìm việc. Các bài viết ở category này sẽ tự động đóng sau 7 ngày.
+- **Meta** - Muốn góp ý cho DNH? Muốn cống hiến cho DNH? Có ý tưởng hay giúp DNH phát triển thì hãy bỏ vào category này!
+- **Share** - Category Share để share mọi thứ bạn thấy hay và giúp ích cho quá trình học lập trình, như: Tài liệu, blog hay, ... Ngoài ra Share gồm 2 sub category là Videos và Writes. 
+  - **Share-Video** thường dùng để chia sẽ các Video học tập, hướng dẫn về lập trình. Nếu video vui thì các bạn hãy cho vô Category Fun thay vì Share-Videos nhé. 
+  - **Share-Writes** dùng để chia sẽ các bài viết các bạn đọc được, hoặc có thể là do bạn tự viết và chia sẽ. 
+- **Secret** - Category này được ẩn và tất nhiên nó ko phải tên Secret ;) Chỉ dành cho thành viên Level 3 trở lên mới vào được. Deepweb đấy! ;)
+
+## DNH được viết trên mã nguồn nào?
+- [Discourse](https://meta.discourse.org/) - Open Source
+- Ngôn ngữ: Ruby, Javascript
+
+## Các cấp bậc trong DNH như thế nào?
