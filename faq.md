@@ -10,12 +10,13 @@ Các câu hỏi liên quan với câu hỏi này là: **"Học ngôn ngữ nào 
 
 Bước chân vào lập trình giống như đứng giữa con đường trăm ngã vậy. Có quá nhiều con đường để chọn, có quá nhiều ngôn ngữ để khám phá và gây một sự bối rối cho người mới học. Vậy nên, trả lời câu hỏi trên, **không có ngôn ngữ nào đáng được ưu tiên hơn ngôn ngữ nào khi mới học lập trình cả**; Cái các bạn cần để bắt đầu học lập trình chính là **sự am hiểu được lập trình là làm gì, cách tư duy, cách suy nghĩ theo hướng lập trình**. Ngôn ngữ lập trình bây giờ không còn phức tạp và khó học như xưa nữa, thế nên việc học một ngôn ngữ không còn quá khó và mất nhiều thời gian. Khi ngôn ngữ đã trở nên dễ học hơn, thì tư duy bắt đầu được trọng dụng. Đó là lí do tại so các bạn cần hiểu được lập trình làm gì và học được cách tư duy theo hướng lập trình. Vì khi các bạn nắm được cốt lõi của lập trình, thì việc học các ngôn ngữ khác sẽ dễ dàng hơn không ít thì nhiều. Và thậm chí không chỉ 1-2 ngôn ngữ, mà bạn có thể học bao nhiêu cũng được!
 
-Tuy nhiên, dù sao thì mình khuyên các bạn nên chọn những ngôn ngữ có xu hướng được nhiều người chọn để học. Đơn giản, nhiều người học thì sẽ dễ dàng được hỗ trợ và hỏi đáp sẽ dễ dàng hơn. Và đây là những ngôn ngữ các bạn nên học nếu chưa có định hướng sẽ làm gì: 
-- Javascript
+Tuy nhiên, dù sao thì mình khuyên các bạn nên chọn những ngôn ngữ có xu hướng được nhiều người chọn để học. Đơn giản, nhiều người học thì sẽ dễ dàng được hỗ trợ và hỏi đáp sẽ dễ dàng hơn. Và đây là những ngôn ngữ các bạn nên học nếu chưa có định hướng sẽ làm gì (xếp theo mức độ dễ học): 
+
 - Python 
-- C++
+- Javascript
 - Ruby
 - Java hoặc C#
+- C++
 
 Còn nếu các bạn có định hướng muốn mình làm gì thì các bạn có thể tham khảo bảng này:
 
@@ -39,7 +40,8 @@ Nếu vận chưa xác định được mình thích gì và ngôn ngữ nào. C
 - http://www.bestprogramminglanguagefor.me/ - Tiếng Anh
 
 ## Làm sao để thành hacker?
-WIP
+Bạn muốn làm Hacker? Các bạn nên đọc bài dịch này để hiểu hacker thực sự là gì: [How To Become Hacker](https://junookyo.blogspot.com/2012/12/bai-dich-how-to-become-hacker-1.html) (dịch bởi Admin HVA - Commale). Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho các hacker tương lai đây! Hãy đọc bài viết nói ở trên bằng Tiếng Anh [How To Become Hacker](http://www.catb.org/esr/faqs/hacker-howto.html) ;) Will you accept this challenge?
+
 ## Lập trình có cần phải giỏi toán không?
 WIP
 ## Khi lập trình thì học cái gì thì kiếm được nhiều tiền nhất?
