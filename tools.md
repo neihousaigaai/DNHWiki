@@ -12,7 +12,7 @@
 
 ## C/C++
 
-### Khuyên dùng: 
+### Khuyên dùng:
 
 - [Codeblocks](http://codeblocks.org/) - Đa nền tảng
 - [Microsoft Visual Studio](https://www.visualstudio.com/) - Một IDE rất mạnh mẽ dùng trên Windows. Tuy nhiên khá nặng và đòi hỏi cấu hình cao với các version mới. Tuy nhiên vài bản đòi hỏi trả phí. Nhưng với bản community hoặc express thì không cần.
@@ -50,13 +50,13 @@
 
 ## Ngôn ngữ khác:
 
-- C\# 
+- C\#
   - [Microsoft Visual Studio](https://www.visualstudio.com/) - Chỉ trên Windows
   - [MonoDevelop](http://monodevelop.com/) - Đa nền tảng
 - Pascal
   - [Free Pascal](http://freepascal.org) - Dành cho các bạn nào quen với giao diện Turbo/Borland Pascal; Đa nền tảng
   - [Lazarus IDE](http://www.lazarus-ide.org/) - Hỗ trợ Drag & Drop, Làm App với Pascal; Đa nền tảng
-- Perl 
+- Perl
 - Ruby
   - [RubyMine](https://www.jetbrains.com/ruby/) - Đa nền tảng, có phí (Miễn phí 1 năm cho sinh viên)
 - Python
@@ -66,7 +66,7 @@
 - Javascript
   - [WebStorm](https://www.jetbrains.com/webstorm/) - Đa nền tảng, có phí (Miễn phí 1 năm cho sinh viên)
 
-  
+
 ## Quản lý source:
 
 ### Phiên bản Phân phối (Distributed)
@@ -80,3 +80,12 @@
 - [Subversion](http://subversion.apache.org/)
 - [Perforce](https://www.perforce.com/)
 - [Team Foundation Server](https://www.visualstudio.com/tfs/)
+
+## Môi trường phát triển
+- [Docker](https://www.docker.com/)
+- [Vagrant](https://www.vagrantup.com/)
+
+## Clouds
+- [Heroku](https://www.heroku.com/)
+- [Openshift](https://www.openshift.com/)
+- [Cloud 9 IDE](https://c9.io)
