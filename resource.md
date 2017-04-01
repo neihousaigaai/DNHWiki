@@ -124,6 +124,7 @@ Phần này được dịch và tham khảo từ Reddit
  - [Video lập trình của Sơn Đẹp Trai](https://daynhauhoc.com/t/tong-hop-cac-clip-huong-dan-c-c-cua-son-dep-trai/1732) - chia sẻ bởi [TTmagic](https://daynhauhoc.com/users/TTmagic)
  - [Video dạy Python của Lê Trần Đạt](https://daynhauhoc.com/t/tong-hop-video-python-cua-le-tran-dat/4118) của [Lê Trần Đạt](https://daynhauhoc.com/users/ltd)
 - [Khóa học C++](https://daynhauhoc.com/t/gioi-thieu-khoa-hoc-lap-trinh-huong-doi-tuong-c-tren-udemy-do-minh-xay-dung/20511) thực hiện bởi [Nguyễn Văn Khoa](https://daynhauhoc.com/users/VanKhoa)
+- [Khóa học Android của Udacity được Vietsub của DNH](https://daynhauhoc.com/t/vietsub-khoa-hoc-android-mien-phi-cua-udacity/9248) - Vietsub bởi [Thành Phạm](https://daynhauhoc.com/users/thanhmssl10), [TTmagic](https://daynhauhoc.com/users/TTmagic), [Minh Hoàng](https://daynhauhoc.com/users/rok_hoang)
 
 -----
 <a name="book"></a>
