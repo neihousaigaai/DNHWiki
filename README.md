@@ -51,11 +51,11 @@ Tiêu đề sai:
 
 **Ngoài ra tuyệt đối không chép code rồi nhờ giải thích toàn bộ code, nhờ chỉnh sửa lỗi trong code lấy trên mạng, nhờ code giùm, nhờ làm bài giùm hoặc dẫn link từ một nơi khác rồi nhờ giúp đỡ. Những bài viết như kể trên sẽ bị close ngay lập tức!**
 
-**TÌM KIẾM TRƯỚC KHI POST**, DNH không phải nơi giải đáp những câu hỏi đầy rẫy trên Google, Bing, Yahoo! Search, ... Vậy nên hãy đảm bảo rằng các bạn đã tìm kiếm trước khi đặt một câu hỏi hay lập một bài viết mới. Đơn giản bạn cứ nghĩ thế này, bạn không bỏ thời gian ra để chỉ tìm kiếm một câu trả lời cho bạn. Thì ai sẽ đủ thời gian trả lời sự lười biếng của bạn?
+**TÌM KIẾM TRƯỚC KHI POST**, DNH không phải nơi giải đáp những câu hỏi đầy rẫy trên Google, Bing, Yahoo! Search, ... Vậy nên hãy đảm bảo rằng các bạn đã tìm kiếm trước khi đặt một câu hỏi hay lập một bài viết mới. Đơn giản bạn cứ nghĩ thế này, bạn không bỏ thời gian ra để chỉ tìm kiếm một câu trả lời cho bạn thì ai sẽ đủ thời gian trả lời sự lười biếng của bạn?
 
-Trong trường hợp nếu câu hỏi của bạn dù tìm kiếm mà không ra giải đáp, hoặc đây là do bạn tự nghiên cứu ra. Thì trong bài viết hãy chỉ rõ ra những cái gì **bạn đã tìm được cũng như làm được, làm tới đâu và kẹt chỗ nào**. Nếu có dính liếu tới code thì nên đưa code lên cho mọi người dễ dàng đọc code và giúp đỡ. Có nhiều trường hợp nhờ giúp, nhưng code lại không được công khai ra thì các bạn có thể đưa mã giã ý tưởng phần nhỏ của dự án đang làm để mọi người dễ hình dung hơn.
+Trong trường hợp nếu câu hỏi của bạn dù tìm kiếm mà không ra giải đáp, hoặc do bạn tự nghiên cứu ra; thì trong bài viết hãy chỉ rõ ra những cái gì **bạn đã tìm được cũng như làm được, làm tới đâu và kẹt chỗ nào**. Nếu có dính liến tới code thì nên đưa code lên cho mọi người dễ dàng đọc code và giúp đỡ. Có nhiều trường hợp nhờ giúp, nhưng code lại không được công khai ra thì các bạn có thể đưa mã giả ý tưởng phần nhỏ của dự án đang làm để mọi người dễ hình dung hơn.
 
-Nói kỹ hơn về việc cung cấp thông tin cho bài viết. Để cho muốn được giải đáp nhanh, bạn nên cung cấp thông tin rõ cho người đọc. Cứ càng nhiều thông tin, thì người giúp đỡ sẽ dễ dàng tiếp cận câu hỏi của bạn và đưa ra câu trả lời nhanh chóng hơn. Sau đây là một vài gợi ý giúp bạn đưa ra thông tin hữu ích cho bài viết:
+Nói kỹ hơn về việc cung cấp thông tin cho bài viết. Để cho muốn được giải đáp nhanh, bạn nên cung cấp thông tin rõ cho người đọc. Càng nhiều thông tin, người giúp đỡ sẽ dễ dàng tiếp cận câu hỏi của bạn và đưa ra câu trả lời nhanh chóng hơn. Sau đây là một vài gợi ý giúp bạn đưa ra thông tin hữu ích cho bài viết:
 
 - Nếu câu hỏi là về lập trình
   1. Đề bài hoặc mục đích của đoạn code bạn đang hiện thực. Chức năng gì, input và output như thế nào.
@@ -73,7 +73,7 @@ Nói kỹ hơn về việc cung cấp thông tin cho bài viết. Để cho mu�
 <a name="homework"></a>
 ## Quy định về giúp đỡ bài tập
 
-DNH sẽ và không bao giờ giúp các bạn **làm giúp** bài tập và nộp cho thầy cô trên trường. Tuy nhiên có những bài tập hay có thể xét vào những câu hỏi hay đáng học hỏi thì có thể cùng nhau thảo luận. Hay có nhiều bài tập đưa ra để cùng nhau giải quyết vấn đề thì những bài tập ấy sẽ được hoanh nghênh. Và khi post các bài liên quan tới bài tập, các bạn nên tuân theo những quy định nhỏ sau:
+DNH sẽ và không bao giờ giúp các bạn **làm giúp** bài tập và nộp cho thầy cô trên trường. Tuy nhiên có những bài tập hay có thể xét vào những câu hỏi hay đáng học hỏi thì có thể cùng nhau thảo luận. Hay có nhiều bài tập đưa ra để cùng nhau giải quyết vấn đề thì những bài tập ấy sẽ được hoan nghênh. Và khi post các bài liên quan tới bài tập, các bạn nên tuân theo những quy định nhỏ sau:
 
 - Các post liên quan tới bài tập về nhà phải gắn tag homework và ngôn ngữ tương ứng
 - Không hối thúc mọi người giúp đỡ, thảo luận về bài tập
@@ -106,9 +106,9 @@ Khi đưa code lên DNH, tốt nhất nên đưa lên **một đoạn code nhỏ
 
 Nếu làm như trên, thì các bạn chắc chắn sẽ nhận được sự giúp đỡ nhiệt tình nhiều hơn từ DNH. Và thậm chí nhiều khi, khi xác định được đoạn code có lỗi cần giúp đỡ, bạn có thể chợt nhận ra lỗi và tự giải quyết mà không cần trợ giúp nữa. :D
 
-Tiếp tới cách chỉnh lại đinh dạng (format) code cho đẹp. Mình tham gia DNH cũng lâu, nhưng thấy các bạn rất ít chỉnh lại định dạng code. Nên khiến nhiều người đọc code, không hiểu các bạn đang biết gì vì nó rối quá. Trong DNH có hỗ trợ Markdown, giúp các bạn định dạng lại code vừa gọn gàng, mà vừa đẹp nữa. Từ đó ai cũng dễ đọc, dễ giúp đỡ hơn.
+Tiếp tới cách chỉnh lại đinh dạng (format) code cho đẹp. Mình tham gia DNH cũng lâu, nhưng thấy các bạn rất ít chỉnh lại định dạng code, khiến nhiều người đọc code mà không hiểu các bạn đang biết gì vì nó rối quá. Trong DNH có hỗ trợ Markdown, giúp các bạn định dạng lại code vừa gọn gàng mà vừa đẹp; từ đó ai cũng dễ đọc, dễ giúp đỡ hơn.
 
-Cách dùng markdown rất đơn giản, các bạn chỉ cần bôi đen đoạn code và nhấn <kbd>Ctrl + Shift + C</kbd> là đoạn code sẽ được định dạng lại rất ngay thẳng! Hoặc bỏ 3 dấu \`\`\` vào đầu vào cuối đoạn code!
+Cách dùng markdown rất đơn giản, các bạn chỉ cần bôi đen đoạn code và nhấn <kbd>Ctrl + Shift + C</kbd> là đoạn code sẽ được định dạng lại rất ngay thẳng; hoặc bỏ 3 dấu \`\`\` vào đầu vào cuối đoạn code.
 
 
 &#96;&#96;&#96;<br/>
@@ -170,19 +170,19 @@ Các bạn có thể xem thêm bài viết khác của Admin: [Hướng dẫn po
 <a name="answer"></a>
 # Trả lời câu hỏi như thế nào cho đúng?
 
-Bạn không cần phải là một chuyên gia để trả lời các câu hỏi. Nếu bạn có thể giúp phần nào, thì cứ việc mạnh dạn ghi ra câu trả lời của mình. Tuy nhiên, dù sao cũng có vài quy tắc cần tuân theo:
+Bạn không cần phải là một chuyên gia để trả lời các câu hỏi. Nếu bạn có thể giúp phần nào, thì cứ việc mạnh dạn ghi ra câu trả lời của mình. Tuy nhiên, cũng có vài quy tắc cần tuân theo:
 
 - Nên dùng Tiếng Anh và Tiếng Việt vì phần lớn thành viên DNH rành 2 ngôn ngữ này.
 - Viết Tiếng Việt **CÓ DẤU**, không dùng ngôn ngữ teen hay các ký hiệu không phổ biến, khó hiểu.
 - Luôn lịch sự, không đả kích người khác, không đứng ngoài khiêu khích gây tranh cãi. (Xem thêm guideline ở trên có đề cập)
 - Đọc kỹ câu hỏi trước khi trả lời. Có thể hỏi lại chủ topic nếu chưa hiểu kỹ câu hỏi.
-- Nếu trả lời bằng code, đảm bảo code có thể chạy được. Và nên comment rõ ràng, chú thích code để tăng tính dễ hiểu
-- Cố gắng **hướng dẫn người hỏi giải quyết vấn đề** hơn là **cung cấp lời giải** cho câu hỏi được hỏi một cách trực tiếp. Đặc biệt là các câu hỏi đơn giản, hoặc nhờ giải giùm bài tập, liên quan tới bài tập.
+- Nếu trả lời bằng code, đảm bảo code có thể chạy được; và nên comment rõ ràng, chú thích code để tăng tính dễ hiểu
+- Cố gắng **hướng dẫn người hỏi giải quyết vấn đề** hơn là **cung cấp lời giải** cho câu hỏi được hỏi một cách trực tiếp, đặc biệt là các câu hỏi đơn giản, hoặc nhờ giải giùm bài tập, liên quan tới bài tập.
 - Nên tìm trả lời một cách chính xác ngay từ đầu. Và nếu có sai, nên chỉnh sửa lại hoặc trả lời lại bằng một câu trả lời đúng.
 - Giúp người hỏi sửa lại thông tin sai trong quá trình hỏi đáp cũng như giúp đỡ nhưng người tham gia khác.
-- Nếu có đưa link về một bài viết nào đó. Nên đọc sơ qua bài viết ấy để xem có đáp ứng yêu cầu người hỏi không cũng như các câu trả lời có giải đáp được phần nào không. Tránh đưa link xấu, virus, không đủ thông tin và thông tin thiếu chính xác.
+- Nếu có đưa link về một bài viết nào đó, nên đọc sơ qua bài viết ấy để xem có đáp ứng yêu cầu người hỏi không cũng như các câu trả lời có giải đáp được phần nào không. Tránh đưa link xấu, virus, không đủ thông tin và thông tin thiếu chính xác.
 - Không được gắn Quảng cáo, MMO vào bất kỳ link nào!
-- Luôn sẵn sàng trả lời những câu hỏi tiếp theo. Vì nhiều lúc có thể bạn hiểu, nhưng khi ghi câu trả lời ra thì có thể người khác đọc không hiểu. Ngoài ra có thể sẽ có những câu hỏi tiếp theo liên quan tới phần bạn trả lời. Nên đừng bỏ ngang topic khi người hỏi chưa xác nhận câu trả lời đúng / hiệu quả nhất.
+- Luôn sẵn sàng trả lời những câu hỏi tiếp theo. Vì nhiều lúc có thể bạn hiểu, nhưng khi ghi câu trả lời ra thì có thể người khác đọc không hiểu. Ngoài ra có thể sẽ có những câu hỏi tiếp theo liên quan tới phần bạn trả lời, nên đừng bỏ ngang topic khi người hỏi chưa xác nhận câu trả lời đúng / hiệu quả nhất.
 
 Đọc thêm: [Answering Technical Questions Helpfully](http://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/)
 
