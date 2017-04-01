@@ -62,6 +62,7 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 ## Lập trình nhúng thì nên học gì?
 
 ## An toàn thông tin thì học gì?
+- [An toàn thông tin thì học gì?](https://vnhacker.blogspot.com/2012/05/lam-toan-thong-tin-thi-hoc-gi.html) - Bài viết của ThaiND
 
 ------
 
@@ -80,6 +81,7 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 ## Làm sao để làm game?
 
 ## Làm sao để làm website?
+[Web developer roadmap 2017](https://github.com/kamranahmedse/developer-roadmap) - Hướng đi cho ai muốn làm Web developer
 
 ------
 
@@ -95,7 +97,10 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 
 ## Lập trình có cần phải giỏi toán không?
 
+
 ## Năm nay X tuổi, có quá trễ để học lập trình?
+Người ta bảo, học tập là học cả đời. Thế nên cho dùng có 30t hay 90t thì không bao giờ là trễ để học lập trình.<br />
+Ngoài ra bạn có thể đọc [bình luận](https://daynhauhoc.com/t/30-tuoi-co-phai-la-qua-gia-cho-developer/6849/5?u=drgnz) rất hứng thú của "Lập Trình Sư" về vấn đề này nhé.
 
 ## Lập trình có khó không?
 
