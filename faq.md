@@ -40,7 +40,11 @@ Nếu vận chưa xác định được mình thích gì và ngôn ngữ nào. C
 - http://www.bestprogramminglanguagefor.me/ - Tiếng Anh
 
 ## Làm sao để thành hacker?
-Bạn muốn làm Hacker? Hãy đọc bài viết này [How To Become Hacker](https://junookyo.blogspot.com/2012/12/bai-dich-how-to-become-hacker-1.html) (dịch bởi Admin HVA - Commale). Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho các hacker tương lai đây! Hãy đọc bài viết nói ở trên bằng Tiếng Anh [How To Become Hacker](http://www.catb.org/esr/faqs/hacker-howto.html) ;) Will you accept this challenge?
+Bạn muốn làm Hacker? Hãy đọc bài viết này: [How To Become Hacker](https://junookyo.blogspot.com/2012/12/bai-dich-how-to-become-hacker-1.html) (dịch bởi Admin HVA - Commale). 
+
+Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho các hacker tương lai đây! Hãy đọc bài gốc của bài viết trên: [How To Become Hacker](http://www.catb.org/esr/faqs/hacker-howto.html) 
+
+;) Will you accept this challenge like a hacker?
 
 ## Lập trình có cần phải giỏi toán không?
 WIP
