@@ -183,6 +183,8 @@ Bạn không cần phải là một chuyên gia để trả lời các câu hỏ
 - Nếu có đưa link về một bài viết nào đó, nên đọc sơ qua bài viết ấy để xem có đáp ứng yêu cầu người hỏi không cũng như các câu trả lời có giải đáp được phần nào không. Tránh đưa link xấu, virus, không đủ thông tin và thông tin thiếu chính xác.
 - Không được gắn Quảng cáo, MMO vào bất kỳ link nào!
 - Luôn sẵn sàng trả lời những câu hỏi tiếp theo, vì nhiều lúc có thể bạn hiểu, nhưng khi ghi câu trả lời ra thì có thể người khác đọc không hiểu. Ngoài ra có thể sẽ có những câu hỏi tiếp theo liên quan tới phần bạn trả lời, nên đừng bỏ ngang topic khi người hỏi chưa xác nhận câu trả lời đúng / hiệu quả nhất.
+- Không chế diễu những câu hỏi hiển nhiên hoặc quá dễ  hoặc vi phạm nội quy. Thay vào đó hãy hướng dẫn các thành viên có câu hỏi như vậy cách hỏi đúng hơn hoặc các keyword liên quan để tự giải quyết vấn đề.
+- Tránh những câu trả lời cộc lốc, không nhiệt tình, không thật sự giải quyết được vấn đề mà người hỏi đang gặp phải.
 
 Đọc thêm: [Answering Technical Questions Helpfully](http://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/)
 
