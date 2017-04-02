@@ -53,7 +53,7 @@ Tiêu đề sai:
 
 **TÌM KIẾM TRƯỚC KHI POST**, DNH không phải nơi giải đáp những câu hỏi đầy rẫy trên Google, Bing, Yahoo! Search, ... Vậy nên hãy đảm bảo rằng các bạn đã tìm kiếm trước khi đặt một câu hỏi hay lập một bài viết mới. Đơn giản bạn cứ nghĩ thế này, bạn không bỏ thời gian ra để chỉ tìm kiếm một câu trả lời cho bạn thì ai sẽ đủ thời gian trả lời sự lười biếng của bạn?
 
-Trong trường hợp nếu câu hỏi của bạn dù tìm kiếm mà không ra giải đáp, hoặc do bạn tự nghiên cứu ra; thì trong bài viết hãy chỉ rõ ra những cái gì **bạn đã tìm được cũng như làm được, làm tới đâu và kẹt chỗ nào**. Nếu có dính liến tới code thì nên đưa code lên cho mọi người dễ dàng đọc code và giúp đỡ. Có nhiều trường hợp nhờ giúp, nhưng code lại không được công khai ra thì các bạn có thể đưa mã giả ý tưởng phần nhỏ của dự án đang làm để mọi người dễ hình dung hơn.
+Trong trường hợp nếu câu hỏi của bạn dù tìm kiếm mà không ra giải đáp, hoặc do bạn tự nghiên cứu ra; thì trong bài viết hãy chỉ rõ ra những cái gì **bạn đã tìm được cũng như làm được, làm tới đâu và kẹt chỗ nào**. Nếu có dính liền tới code thì nên đưa code lên cho mọi người dễ dàng đọc code và giúp đỡ. Có nhiều trường hợp nhờ giúp, nhưng code lại không được công khai ra thì các bạn có thể đưa mã giả ý tưởng phần nhỏ của dự án đang làm để mọi người dễ hình dung hơn.
 
 Nói kỹ hơn về việc cung cấp thông tin cho bài viết. Để cho muốn được giải đáp nhanh, bạn nên cung cấp thông tin rõ cho người đọc. Càng nhiều thông tin, người giúp đỡ sẽ dễ dàng tiếp cận câu hỏi của bạn và đưa ra câu trả lời nhanh chóng hơn. Sau đây là một vài gợi ý giúp bạn đưa ra thông tin hữu ích cho bài viết:
 
@@ -183,7 +183,7 @@ Bạn không cần phải là một chuyên gia để trả lời các câu hỏ
 - Nếu có đưa link về một bài viết nào đó, nên đọc sơ qua bài viết ấy để xem có đáp ứng yêu cầu người hỏi không cũng như các câu trả lời có giải đáp được phần nào không. Tránh đưa link xấu, virus, không đủ thông tin và thông tin thiếu chính xác.
 - Không được gắn Quảng cáo, MMO vào bất kỳ link nào!
 - Luôn sẵn sàng trả lời những câu hỏi tiếp theo, vì nhiều lúc có thể bạn hiểu, nhưng khi ghi câu trả lời ra thì có thể người khác đọc không hiểu. Ngoài ra có thể sẽ có những câu hỏi tiếp theo liên quan tới phần bạn trả lời, nên đừng bỏ ngang topic khi người hỏi chưa xác nhận câu trả lời đúng / hiệu quả nhất.
-- Không chế diễu những câu hỏi hiển nhiên hoặc quá dễ  hoặc vi phạm nội quy. Thay vào đó hãy hướng dẫn các thành viên có câu hỏi như vậy cách hỏi đúng hơn hoặc các keyword liên quan để tự giải quyết vấn đề.
+- Không chế giễu những câu hỏi hiển nhiên hoặc quá dễ hoặc vi phạm nội quy. Thay vào đó hãy hướng dẫn các thành viên có câu hỏi như vậy cách hỏi đúng hơn hoặc các keyword liên quan để tự giải quyết vấn đề.
 - Tránh những câu trả lời cộc lốc, không nhiệt tình, không thật sự giải quyết được vấn đề mà người hỏi đang gặp phải.
 
 Đọc thêm: [Answering Technical Questions Helpfully](http://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/)
