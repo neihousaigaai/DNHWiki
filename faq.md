@@ -81,7 +81,7 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 ## Làm sao để làm game?
 
 ## Làm sao để làm website?
-[Web developer roadmap 2017](https://github.com/kamranahmedse/developer-roadmap) - Hướng đi cho ai muốn làm Web developer
+- [Web developer roadmap 2017](https://github.com/kamranahmedse/developer-roadmap) - Hướng đi cho ai muốn làm Web developer
 
 ------
 
@@ -120,14 +120,20 @@ Ngoài ra bạn có thể đọc [bình luận](https://daynhauhoc.com/t/30-tuoi
 ## Nắm vững ngôn ngữ là như thế nào?
 
 ## Có nên dùng IDE khi mới học lập trình?
+Câu trả lời là không nên. Tuy nhiên bạn vẫn có thể xài IDE như thường và không ai bắt các bạn phải dùng Compiler cả. Nhưng lời khuyên là các bạn nên tập compile bằng compiler càng sớm càng tốt. Vì IDE giấu đi khá nhiều bước trong quá trình compile chỉ bằng một nút duy nhất. Trong khi hiểu được quá trình compile hay các tham số của compiler sẽ giúp bạn rất rất nhiều trong quá trình compile. Ngoài ra, ở một số môi trường không hề có GUI, thì việc compile bằng tay sẽ là bắt buộc. Còn nếu bạn muốn học về Reverse Engineering, thì việc học cách compile bằng tay, hiểu các tham số của Compiler có lẽ là điều bắt buộc.
 
 ## Có nên học nhiều ngôn ngữ cùng lúc?
+Không nên học nhiều ngôn ngữ cùng lúc dù bạn đã có học qua ngôn ngữ lập trình trước rồi. Vì học cả 2 cùng lúc rất dễ bị rối, nếu 2 ngôn ngữ cú pháp tựa tựa nhau có thể giúp dễ nhớ nhưng lại gây rối rắm trong quá trình học. Với 2 ngôn ngữ có cú pháp khác nhau thì việc ghi nhớ cú pháp cả 2 sẽ phải mất không ít thời gian và dễ gây nhầm lẫn. Thế nên, tốt nhất là học một và chỉ một ngôn ngữ lập trình một lúc. Nếu có bạn nào muốn học nhiều ngôn ngữ cùng lúc để trải nghiệm và xem mình thích ngôn ngữ nào thì cũng nên đừng làm vậy. Các ngôn ngữ bây giờ rất dễ học nên thời gian học sẽ mất không quá lâu nếu có biết trước một ngôn ngữ nền tảng. Từ đó, việc trải nghiệm một ngôn ngữ sẽ nhanh hơn trước nhiều. Cuối cùng, bằng việc tập trung một ngôn ngữ một lúc vậy sẽ cho các bạn trải nghiệm tốt hơn về ngôn ngữ đó hơn là một lúc hai ngôn ngữ, giúp bạn có đánh giá khách quan hơn về các ngôn ngữ khác nhau và có lựa chọn đúng đắn hơn.
 
 ## Tìm cảm hứng học tập
 
 ## Có nên học những ngôn ngữ đang hot?
+Những ngôn ngữ đang hot hoặc đang lên bao giờ cũng dễ kiếm việc cũng như kiếm tiền. Tuy nhiên cái gì cũng có thời của nó; Dễ thấy vài năm trước PHP đang rất thịnh hành, thì nay đang bị lung lay bởi Javascript, Ruby on Rail. Vậy nên tốt nhất là học chắc một ngôn ngữ mà bạn yêu thích để làm nền tảng thật vững. Sau đó bạn có thể học sâu thêm về ngôn ngữ yêu thích của mình. Đảm cơ hội việc làm về ngôn ngữ đó sẽ càng cao và lương bổng cũng không phải nhỏ. Tất nhiên nếu bạn có nền tảng chắc rồi nhưng không thích đào sâu, thì việc học các ngôn ngữ theo xu hướng cũng không phải là một lựa chọn tồi. Nhờ có nền tẩng chắc, bạn sẽ tiếp thu những ngôn ngữ này cũng sẽ rất là nhanh chóng.
 
 ## Mua máy tính cấu hình nào để học lập trình?
+Phần lớn các lĩnh vực trong lập trình sẽ không đòi hỏi cấu hình quá cao. Nên với một con chip Pentium, RAM 2GB, ổ cứng 200GB là bạn đã có thể học tập được rồi. Để thoải mái hơn các bạn có thể xài các chip i-series (i3, i5, i7), RAM 4GB và HDD 500GB. Tuy nhiên nếu các bạn có xài cái IDE nặng như Visual Studio, Jetbrain thì khuyến khích nâng cấp ổ cứng lên 500GB, Chip i3 trở lên, RAM 8GB dùng sẽ mượt hơn và không bị lag hay đứng máy. Còn nếu các bạn nào học về Android hoặc có nhu cầu chạy máy ảo nhiều (như Pen-tester) thì nên nâng cấp thêm RAM, và tối thiểu 8GB để chạy vì máy ảo yêu cầu rất nhiều RAM. Với các bạn làm Game sẽ có tác vụ đồ họa, nên mua thêm một Card đồ họa rời và nâng cấp RAM sẽ hỗ trợ bạn làm game tốt hơn.
+
+Phần trên chỉ là cấu hình, lời tư vấn cơ bản, để thêm chi tiết các bạn có thể lên DNH tạo một Topic mới với số tiền hiện có cũng như ngành nghề để được tư vấn kỹ hơn.
 
 ------
 
@@ -152,3 +158,4 @@ Ngoài ra bạn có thể đọc [bình luận](https://daynhauhoc.com/t/30-tuoi
 - Ngôn ngữ: Ruby, Javascript
 
 ## Các cấp bậc trong DNH như thế nào?
+- [Trust Level hoạt động như thế nào?](https://daynhauhoc.com/t/trust-level-hoat-dong-nhu-the-nao/14)
