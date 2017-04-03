@@ -88,7 +88,7 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 # Câu hỏi về tài nguyên học
 ## Sách nào tốt nhất để học lập trình?
 
-- [Danh sách sách được](https://github.com/drgnz/DNHWiki/blob/master/resource.md#book)
+- [Danh sách sách](https://github.com/drgnz/DNHWiki/blob/master/resource.md#book)
 
 ## Nơi nào tốt nhất để học lập trình?
 
