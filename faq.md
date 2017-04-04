@@ -15,7 +15,7 @@ Update later
 ## Nên học ngôn ngữ nào đầu tiên?
 Các câu hỏi liên quan với câu hỏi này là: **"Học ngôn ngữ nào tốt nhất?"**, **"Ngôn ngữ nào dễ học cho người mới?"**, ...
 
-Bước chân vào lập trình giống như đứng giữa con đường trăm ngã vậy. Có quá nhiều con đường để chọn, có quá nhiều ngôn ngữ để khám phá và gây một sự bối rối cho người mới học. Vậy nên, trả lời câu hỏi trên, **không có ngôn ngữ nào đáng được ưu tiên hơn ngôn ngữ nào khi mới học lập trình cả**; Cái các bạn cần để bắt đầu học lập trình chính là **sự am hiểu được lập trình là làm gì, cách tư duy, cách suy nghĩ theo hướng lập trình**. Ngôn ngữ lập trình bây giờ không còn phức tạp và khó học như xưa nữa, thế nên việc học một ngôn ngữ không còn quá khó và mất nhiều thời gian. Khi ngôn ngữ đã trở nên dễ học hơn, thì tư duy bắt đầu được trọng dụng. Đó là lí do tại so các bạn cần hiểu được lập trình làm gì và học được cách tư duy theo hướng lập trình. Vì khi các bạn nắm được cốt lõi của lập trình, thì việc học các ngôn ngữ khác sẽ dễ dàng hơn không ít thì nhiều. Và thậm chí không chỉ 1-2 ngôn ngữ, mà bạn có thể học bao nhiêu cũng được!
+Bước chân vào lập trình giống như đứng giữa con đường trăm ngả vậy. Có quá nhiều con đường để chọn, có quá nhiều ngôn ngữ để khám phá và điều đó gây nên sự bối rối cho người mới học. Vậy nên, trả lời câu hỏi trên, **không có ngôn ngữ nào đáng được ưu tiên hơn ngôn ngữ nào khi mới học lập trình cả**; cái các bạn cần để bắt đầu học lập trình chính là **sự am hiểu được lập trình là làm gì, cách tư duy, cách suy nghĩ theo hướng lập trình**. Ngôn ngữ lập trình bây giờ không còn phức tạp và khó học như xưa nữa, thế nên việc học một ngôn ngữ không còn quá khó và mất nhiều thời gian. Khi ngôn ngữ đã trở nên dễ học hơn, thì tư duy bắt đầu được trọng dụng. Đó là lí do tại so các bạn cần hiểu được lập trình làm gì và học được cách tư duy theo hướng lập trình. Vì khi các bạn nắm được cốt lõi của lập trình, thì việc học các ngôn ngữ khác sẽ dễ dàng hơn không ít thì nhiều. Và thậm chí không chỉ 1-2 ngôn ngữ, mà bạn có thể học bao nhiêu cũng được!
 
 Tuy nhiên, dù sao thì mình khuyên các bạn nên chọn những ngôn ngữ có xu hướng được nhiều người chọn để học. Đơn giản, nhiều người học thì sẽ dễ dàng được hỗ trợ và hỏi đáp sẽ dễ dàng hơn. Và đây là những ngôn ngữ các bạn nên học nếu chưa có định hướng sẽ làm gì (xếp theo mức độ dễ học): 
 
@@ -131,7 +131,7 @@ Không nên học nhiều ngôn ngữ cùng lúc dù bạn đã có học qua ng
 ## Tìm cảm hứng học tập
 
 ## Có nên học những ngôn ngữ đang hot?
-Những ngôn ngữ đang hot hoặc đang lên bao giờ cũng dễ kiếm việc cũng như kiếm tiền. Tuy nhiên cái gì cũng có thời của nó; Dễ thấy vài năm trước PHP đang rất thịnh hành, thì nay đang bị lung lay bởi Javascript, Ruby on Rail. Vậy nên tốt nhất là học chắc một ngôn ngữ mà bạn yêu thích để làm nền tảng thật vững. Sau đó bạn có thể học sâu thêm về ngôn ngữ yêu thích của mình. Đảm cơ hội việc làm về ngôn ngữ đó sẽ càng cao và lương bổng cũng không phải nhỏ. Tất nhiên nếu bạn có nền tảng chắc rồi nhưng không thích đào sâu, thì việc học các ngôn ngữ theo xu hướng cũng không phải là một lựa chọn tồi. Nhờ có nền tẩng chắc, bạn sẽ tiếp thu những ngôn ngữ này cũng sẽ rất là nhanh chóng.
+Những ngôn ngữ đang hot hoặc đang lên bao giờ cũng dễ kiếm việc cũng như kiếm tiền. Tuy nhiên cái gì cũng có thời của nó; Dễ thấy vài năm trước PHP đang rất thịnh hành, thì nay đang bị lung lay bởi Javascript, Ruby on Rail. Vậy nên tốt nhất là học chắc một ngôn ngữ mà bạn yêu thích để làm nền tảng thật vững. Sau đó bạn có thể học sâu thêm về ngôn ngữ yêu thích của mình. Đảm bảo cơ hội việc làm về ngôn ngữ đó sẽ càng cao và lương bổng cũng không phải nhỏ. Tất nhiên nếu bạn có nền tảng chắc rồi nhưng không thích đào sâu, thì việc học các ngôn ngữ theo xu hướng cũng không phải là một lựa chọn tồi. Nhờ có nền tẩng chắc, bạn sẽ tiếp thu những ngôn ngữ này cũng sẽ rất là nhanh chóng.
 
 ## Mua máy tính cấu hình nào để học lập trình?
 Phần lớn các lĩnh vực trong lập trình sẽ không đòi hỏi cấu hình quá cao. Nên với một con chip Pentium, RAM 2GB, ổ cứng 200GB là bạn đã có thể học tập được rồi. Để thoải mái hơn các bạn có thể xài các chip i-series (i3, i5, i7), RAM 4GB và HDD 500GB. Tuy nhiên nếu các bạn có xài cái IDE nặng như Visual Studio, Jetbrain thì khuyến khích nâng cấp ổ cứng lên 500GB, Chip i3 trở lên, RAM 8GB dùng sẽ mượt hơn và không bị lag hay đứng máy. Còn nếu các bạn nào học về Android hoặc có nhu cầu chạy máy ảo nhiều (như Pen-tester) thì nên nâng cấp thêm RAM, và tối thiểu 8GB để chạy vì máy ảo yêu cầu rất nhiều RAM. Với các bạn làm Game sẽ có tác vụ đồ họa, nên mua thêm một Card đồ họa rời và nâng cấp RAM sẽ hỗ trợ bạn làm game tốt hơn.
@@ -145,13 +145,13 @@ Phần trên chỉ là cấu hình, lời tư vấn cơ bản, để thêm chi t
 ## Chia category trong DNH như thế nào?
 - **Programming** - Danh cho tất cả các câu hỏi liên quan tới lập trình
 - **Dev chat** - Tán gẫu, chát chít vói các dev. Bạn muốn tán gẫu, tư vấn, trao đổi, hỏi han linh tinh mà có kèm một chút trò chuyện, hãy chọn category này
-- **Randomq** - Câu hỏi không liên quan tới lập trình, như làm sao để cài phần mềm abc, máy bị hư, sữa lỗi IDE, ...
+- **Randomq** - Câu hỏi không liên quan tới lập trình, như làm sao để cài phần mềm abc, máy bị hư, sữa lỗi IDE,...
 - **Fun** - Share linh tinh mọi thứ giúp DNH giải trí. Bạn cũng có thể khoe Project của bạn ở category này, hay thử thách, đố vui mọi người
 - **Hacker News** - Mục này dùng để share tin tức mà các bạn cho là thú vị chú không phải là mục để mấy anh hacker tán gẫu đâu nhé :D
 - **English** - Hỏi đáp, chia sẽ về Tiếng Anh là vô đây hết.
 - **Jobs** - Đăng tuyển nhân sự hoặc cho các bạn nào muốn tìm việc. Các bài viết ở category này sẽ tự động đóng sau 7 ngày.
 - **Meta** - Muốn góp ý cho DNH? Muốn cống hiến cho DNH? Có ý tưởng hay giúp DNH phát triển thì hãy bỏ vào category này!
-- **Share** - Category Share để share mọi thứ bạn thấy hay và giúp ích cho quá trình học lập trình, như: Tài liệu, blog hay, ... Ngoài ra Share gồm 2 sub category là Videos và Writes. 
+- **Share** - Category Share để share mọi thứ bạn thấy hay và giúp ích cho quá trình học lập trình, như: Tài liệu, blog hay,... Ngoài ra Share gồm 2 sub category là Videos và Writes. 
   - **Share-Video** thường dùng để chia sẽ các Video học tập, hướng dẫn về lập trình. Nếu video vui thì các bạn hãy cho vô Category Fun thay vì Share-Videos nhé. 
   - **Share-Writes** dùng để chia sẽ các bài viết các bạn đọc được, hoặc có thể là do bạn tự viết và chia sẽ. 
 - **Secret** - Category này được ẩn và tất nhiên nó ko phải tên Secret ;) Chỉ dành cho thành viên Level 3 trở lên mới vào được. Deepweb đấy! ;)
