@@ -69,8 +69,29 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 # Câu hỏi về trường lớp, bằng cấp
 
 ## Lập trình có quan trọng bằng cấp không?
+Ngắn gọn: Không!
+- Bạn có thể học code bên ngoài và dễ dàng làm sản phẩm mà không phải học quá nhiều.
+- Nhiều start-up mới mở cần nhân lực nên có thể không cần thông qua bằng cấp mà chỉ cần năng lực
+- [Working on it]
 
-## Đại học nào tốt để học lập trình / an toàn thông tin?
+Khuyên: Có!
+- Với một tấm bằng đẹp, kiến thức vững thì không lo mà thất nghiệp. 
+- Bằng đẹp, phong trào tốt, Tiếng Anh tốt thì du học sẽ dễ dàng hơn.
+- Có bằng cấp sẽ dễ xin việc hoặc được ưu ái hơn ở một số công ty / trường hợp.
+- Bằng cấp sẽ giúp các nhà tuyển dụng nhìn tổng quan hơn quá trình học tập của bạn từ đó có thể dễ dàng đánh giá năng lực hơn.
+- @Working in process
+
+
+## Đại học nào dạy an toàn thông tin?
+- ĐH Công nghệ thông tin - Thuộc ĐH Quốc gia TP.HCM
+- Học viện Mật Mã - Hà nội
+- Học viện Công nghệ bưu chính viễn thông - Hà Nội
+- Học viện An ninh nhân dân - Hà nội
+- Đại học Công nghệ - Thuộc ĐH Quốc gia HN
+- Đại học Bách Khoa Hà nội
+- Đại học Bách Khoa Đà nẵng
+- Học viện Kỹ thuật Quân sự - Hà nội
+- Đại học FPT (Có tuyển sinh ở HN, HCM và Đà nẵng)
 
 ------
 
