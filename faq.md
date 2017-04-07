@@ -120,7 +120,17 @@ Khuyên: Có!
 # Các điều lo lắng
 
 ## Lập trình có cần phải giỏi toán không?
+Các bạn không cần phải giỏi toán để học lập trình (tất nhiên ít ra cũng phải biết những điều cơ bản). Nhiều ngành nghề trong lập trình không còn đòi hỏi toán học quá phức tạp nữa. Các bạn có thể dễ dàng tạo ra những ứng dụng, website hay phần mềm máy tính hay mà không cần phải quá thành thạo toán học. Tuy nhiên, nếu giỏi toán thì sẽ luôn là một lợi thế cho bạn trong ngành lập trình. Bên cạnh đó, có một số lĩnh vực trong ngành lập trình sẽ đặc biệt đòi hỏi toán học như:
+- Data Science / Data Engineering (Xác xuất thống kê)
+- AI Nói chung (Machine Learning, Computer Vision, Natual Language Processing, ...)
+- Nghiên cứu về giải thuật / khoa học máy tính
+- Lập trình đồ họa - Graphics Programming (Đại số tuyến tính)
+- Lập trình game (Vector, ma trận, ...)
+- Mật mã học - Cryptography (Lý thuyết số, đại số trừu tượng)
+- Nhúng - Embedded System (Giải tích, Fourier, đại số Bool, ...)
+- Database (Đại số quan hệ, lý thuyết đồ thị, ...)
 
+## Giải thuật và Cấu trúc dữ liệu có quan trọng không?
 
 ## Năm nay X tuổi, có quá trễ để học lập trình?
 Người ta bảo, học tập là học cả đời. Thế nên cho dùng có 30t hay 90t thì không bao giờ là trễ để học lập trình.<br />
