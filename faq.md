@@ -53,6 +53,11 @@ Mà khoan hãy đọc bài viết trên. Mình có một thử thách nhỏ cho 
 ;) Will you accept this challenge like a hacker?
 [Working in process]
 
+## Làm sao để học hiệu quả?
+Các câu hỏi liên quan: Học thế nào là hiệu quả? Làm sao để tập trung học tập?
+<br />Các bạn có thể tham khảo: 
+<br />[Học thế nào cho đúng?](https://daynhauhoc.com/t/hoc-the-nao-cho-dung/44407) - [Lê Trần Đạt](https://daynhauhoc.com/users/ltd)
+
 ------
 
 # Nghề nghiệp, định hướng
