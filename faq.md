@@ -73,6 +73,10 @@ Các câu hỏi liên quan: Học thế nào là hiệu quả? Làm sao để t�
 
 # Câu hỏi về trường lớp, bằng cấp
 
+## Nên học trường nào?
+Các câu hỏi liên quan: Học trường nào tốt cho CNTT? Học trường nào dễ kiếm việc làm? Học trường nào đào tạo tốt?
+- [Nên học trường nào?](https://daynhauhoc.com/t/nen-hoc-truong-nao/44440) - [Lê Trần Đạt](https://daynhauhoc.com/users/ltd)
+
 ## Lập trình có quan trọng bằng cấp không?
 Ngắn gọn: Không!
 - Bạn có thể học code bên ngoài và dễ dàng làm sản phẩm mà không phải học quá nhiều.
