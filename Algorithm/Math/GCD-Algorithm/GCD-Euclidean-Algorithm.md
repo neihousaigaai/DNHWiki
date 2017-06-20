@@ -59,8 +59,8 @@ GCD(r, n) = 1 -> n không chia hết cho bất kì ước nào khác 1 của r -
 = sign(a) * sign(b) * GCD(abs(a), abs(b))
 ```
 
-## Áp dụng
-### Pseudocode:
+# Áp dụng
+## Pseudocode:
 ```
 gcd(a, b) {
 	while (b != 0) do {
@@ -72,11 +72,11 @@ gcd(a, b) {
 }
 ```
 
-### Độ phức tạp thuật toán
+## Độ phức tạp thuật toán
 `O(log a)`, mình cũng chưa biết tại sao =))
 
-### Mở rộng
-#### Tính ước chung lớn nhất của nhiều số
+## Mở rộng
+### Tính ước chung lớn nhất của nhiều số
 Theo tính chất `GCD(a, b, c) = GCD(GCD(a, b), c)`, ta có pseudocode:
 ```
 gcd(int a[], int n) { // mảng a chứa các số cần lấy GCD, mảng này có n số
@@ -88,7 +88,7 @@ gcd(int a[], int n) { // mảng a chứa các số cần lấy GCD, mảng này 
 }
 ```
 
-#### Tính bội chung nhỏ nhất của 2 số
+### Tính bội chung nhỏ nhất của 2 số
 Từ tính chất `a * b = GCD(a, b) * LCM(a, b)`, ta có pseudocode:
 ```
 lcm(a, b) {
