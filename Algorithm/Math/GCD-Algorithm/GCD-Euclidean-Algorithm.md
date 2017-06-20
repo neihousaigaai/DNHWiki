@@ -74,3 +74,25 @@ gcd(a, b) {
 
 ## Độ phức tạp thuật toán
 `O(log a)`, mình cũng chưa biết tại sao =))
+
+## Mở rộng
+### Tính ước chung lớn nhất của nhiều số
+Theo tính chất `GCD(a, b, c) = GCD(GCD(a, b), c)`, ta có pseudocode:
+```
+gcd(int a[], int n) { // mảng a chứa các số cần lấy GCD, mảng này có n số
+	d = a[0]
+	for (i = 1; i < n; i++) {
+		d = gcd(d, a[i])
+	}
+	return d
+}
+```
+
+## Tính bội chung nhỏ nhất của 2 số
+Từ tính chất `a * b = GCD(a, b) * LCM(a, b)`, ta có pseudocode:
+```
+lcm(a, b) {
+	d = gcd(a, b)
+	return (a * b / d)
+}
+```
