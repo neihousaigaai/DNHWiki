@@ -4,10 +4,10 @@ Hôm nay mình sẽ giới thiệu với các bạn một thuật toán vô cùn
 
 # Khởi đầu
 Chắc hẳn khi mới học code hay khi học toán, bạn cũng đã được học về bài toán tìm ước chung lớn nhất.
-Bạn sẽ kêu: Eo, bài này dễ ẹc.
-Thằng A bảo: Phân tích ra thừa số nguyên tố, rồi với mỗi ước số nguyên tố lấy ra số mũ lớn nhất, blah blah blah...
-Thằng B bảo: Chạy tất cả các số từ 1 đến a (hoặc b), tìm số nào lớn nhất mà cả a và b đều chia hết, số đó chính là GCD.
-Thằng C bảo: Chạy tất cả các số từ a (hoặc b) về 1, số đầu tiên mà cả a và b đều chia hết chính là GCD.
+- Bạn sẽ kêu: Eo, bài này dễ ẹc.
+- Thằng A bảo: Phân tích ra thừa số nguyên tố, rồi với mỗi ước số nguyên tố lấy ra số mũ lớn nhất, blah blah blah...
+- Thằng B bảo: Chạy tất cả các số từ 1 đến a (hoặc b), tìm số nào lớn nhất mà cả a và b đều chia hết, số đó chính là GCD.
+- Thằng C bảo: Chạy tất cả các số từ a (hoặc b) về 1, số đầu tiên mà cả a và b đều chia hết chính là GCD.
 ...
 
 Thực tế, cả 3 thằng A, B, C đều là những thằng... ngu học. Phân tích nhé:
