@@ -65,9 +65,9 @@ count_prime() {
 }
 ```
 Ngay lập tức hệ thống trả về kết quả `Time Limit Exceeded` vì code của bạn "lỡ" chạy quá 1s.
-Ở bài toán trên, ta chạy N = 1000000 số, kiểm tra nguyên tố từng đó số nữa, tổng độ phức tạp là O(N * sqrt(N)), tính ra máy tính phải tính đến ngót `1e6 * sqrt(1e6) = 1e9` phép tính. Mà rõ ràng là TLE rồi, máy tính sao chịu nổi 1e9 phép tính 1s.
+Ở bài toán trên, ta chạy `N = 1000000` số, kiểm tra nguyên tố từng đó số nữa, tổng độ phức tạp là O(N * sqrt(N)), tính ra máy tính phải tính đến ngót `1e6 * sqrt(1e6) = 1e9` phép tính. Mà rõ ràng là TLE rồi, máy tính sao chịu nổi 1e9 phép tính 1s.
 
-Một thằng A khác nhận được bài toán tương tự, và bạn thấy sao nó code kì diệu nó, bài toán với số to như thế mà qua dễ dàng. Thằng A thấy bạn không làm được, hắn đã chỉ bảo cho bạn (vì A là người tốt)
+Một thằng A khác nhận được bài toán tương tự, và bạn thấy sao nó code kì diệu quá, bài toán với số to như thế mà qua dễ dàng. Thằng A thấy bạn không làm được, hắn đã chỉ bảo cho bạn (vì A là người tốt)
 
 ## Thuật toán sàng nguyên tố Eratosthenes
 Có lẽ ít ai còn nhớ, trong Sách giáo khoa Toán 6 tập 1, thuật toán này đã được đề cập đến (mặc dù không phải ở phần Đọc thêm hay Phụ lục nhưng chắc bạn cũng chả quan tâm).
