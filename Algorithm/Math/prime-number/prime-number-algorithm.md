@@ -28,12 +28,15 @@ Ta có thể dùng `trunc(sqrt(n))` hay bất kì hàm lấy phần nguyên nào
 ## Pseudocode
 ```
 prime_check(n) {
+	if (n < 2) {
+		return false // loại bỏ 2 trường hợp nhảm nhí là 0 và 1
+	}
 	for (i = 2; i*i <= n; i++) {
 		if (n mod i == 0) {
-			return false //phát hiện có 1 ước số (khác 1 và n) của n -> n không nguyên tố
+			return false // phát hiện có 1 ước số (khác 1 và n) của n -> n không nguyên tố
 		}
 	}
-	return true //n đã qua vòng kiểm tra, không phát hiện ước số nào khác 1 và n
+	return true // n đã qua vòng kiểm tra, không phát hiện ước số nào khác 1 và n
 }
 ```
 
@@ -46,12 +49,15 @@ Một ngày đẹp trời nào đó, bạn nhận được yêu cầu tìm tất
 Bạn tặc lưỡi: "Easy" và bạn lắp ngay đoạn code kiểm tra nguyên tố từng số và chạy từ 1 đến 1000000, tức là
 ```
 prime_check(n) {
+	if (n < 2) {
+		return false
+	}
 	for (i = 2; i*i <= n; i++) {
 		if (n mod i == 0) {
-			return false //phát hiện có 1 ước số (khác 1 và n) của n -> n không nguyên tố
+			return false
 		}
 	}
-	return true //n đã qua vòng kiểm tra, không phát hiện ước số nào khác 1 và n
+	return true
 }
 
 count_prime() {
