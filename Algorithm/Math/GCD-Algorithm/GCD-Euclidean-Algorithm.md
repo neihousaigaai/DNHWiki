@@ -64,11 +64,11 @@ GCD(r, n) = 1 -> n không chia hết cho bất kì ước nào khác 1 của r -
 ```
 gcd(a, b) {
 	while (b != 0) do {
-		r := a mod b
-		a := b
-		b := r
+		r = a mod b
+		a = b
+		b = r
 	}
-	return a //đây chính là GCD
+	return a // đây chính là GCD
 }
 ```
 
@@ -79,7 +79,7 @@ gcd(a, b) {
 ### Tính ước chung lớn nhất của nhiều số
 Theo tính chất `GCD(a, b, c) = GCD(GCD(a, b), c)`, ta có pseudocode:
 ```
-gcd(int a[], int n) { // mảng a chứa các số cần lấy GCD, mảng này có n số
+gcd(a[], n) { // mảng a chứa các số cần lấy GCD, mảng này có n số
 	d = a[0]
 	for (i = 1; i < n; i++) {
 		d = gcd(d, a[i])
@@ -93,6 +93,6 @@ Từ tính chất `a * b = GCD(a, b) * LCM(a, b)`, ta có pseudocode:
 ```
 lcm(a, b) {
 	d = gcd(a, b)
-	return (a * b / d)
+	return (a * b / d) // đây chính là LCM
 }
 ```
