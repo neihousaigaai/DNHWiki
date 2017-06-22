@@ -17,6 +17,8 @@ Các tài liệu tổng hợp gồm từ nhiều nguồn cho các bạn tham kh�
       - [Official Tutorials](#onlineresource-eng-other-officialtuts)
   - [Tiếng Việt](#onlineresource-vi)
 - [Sách](#book)
+- [Cryptography - Mật mã học](https://github.com/drgnz/DNHWiki/blob/master/crypto.md)
+- [Data structure and Algorithm - Cấu trúc dữ liệu và Giải thuật](https://github.com/drgnz/DNHWiki/blob/master/Algorithm/introduction.md)
 
 -------
 <a name="onlineresource"></a>
