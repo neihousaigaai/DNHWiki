@@ -8,5 +8,5 @@ Nơi chia sẻ về thuật toán
 
 # Một số nguồn đọc thuật toán
 ## Tiếng Việt
-- [VNOI wiki](vnoi.info/wiki)
+- [VNOI wiki](http://vnoi.info/wiki/Home)
 - Giải thuật & Lập trình - Lê Minh Hoàng
