@@ -53,7 +53,7 @@ Some of the more advanced properties of congruence relations are the following:
 * Một số tính chất khác:
 	- Định lý nhỏ Fermat: Nếu p nguyên tố thì `a^(p-1) ≡ 1 (mod p)` với `0 < a < p`
 	- Hệ quả của định lý nhỏ Fermat: Nếu p nguyên tố thì `a^(−1) ≡ a^(p − 2) (mod p)` (phép nhân nghịch đảo số dư, 0 < a < p).
-	- Định lý Euler: Nếu a và n nguyên tố cùng nhau thì `a^φ(n) ≡ 1 (mod n)` với `φ` là Euler's totient function (sẽ nói ở bài sau)
+	- Định lý Euler: Nếu a và n nguyên tố cùng nhau thì `a^φ(n) ≡ 1 (mod n)` với `φ` là Euler's totient function (ở [đây](/7Algorithm/Math/Modulo/Euler-s_totient_function_(ETF).md))
 	- Hệ của của định lý Euler:
 		+ Nếu a và n nguyên tố cùng nhau thì `a^(−1) ≡ a^(φ(n) − 1) (mod n)`.
 		+ Nếu `a ≡ b (mod φ(n))` thì `k^a ≡ k^b (mod n)` với k và n nguyên tố cùng nhau.
