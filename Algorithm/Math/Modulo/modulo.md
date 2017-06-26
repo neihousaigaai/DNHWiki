@@ -16,23 +16,33 @@ Kí hiệu `a ≡ b (mod n)`
 - Tính chất bắc cầu: Nếu `a ≡ b (mod n)` và `b ≡ c (mod n)` thì `a ≡ c (mod n)`
 
 - Nếu `a ≡ b (mod n)` thì:
-  + `a + k ≡ b + k (mod n)` với mọi số nguyên k (compatibility with translation)
-  + `k * a ≡ k * b (mod n)` với mọi số nguyên k (compatibility with scaling)
-  + `a^k ≡ b^k (mod n)` với mọi số nguyên không âm k (compatibility with exponentiation)
-  + `p(a) ≡ p(b) (mod n)`, với mọi đa thức `p(x)` với các hệ số nguyên (compatibility with polynomial evaluation)
+	+ `a + k ≡ b + k (mod n)` với mọi số nguyên k (compatibility with translation)
+	+ `k * a ≡ k * b (mod n)` với mọi số nguyên k (compatibility with scaling)
+	+ `a^k ≡ b^k (mod n)` với mọi số nguyên không âm k (compatibility with exponentiation)
+	+ `p(a) ≡ p(b) (mod n)`, với mọi đa thức `p(x)` với các hệ số nguyên (compatibility with polynomial evaluation)
 
 - Nếu `a1 ≡ b1 (mod n)` và `a2 ≡ b2 (mod n)` thì:
-  + `a1 + a2 ≡ b1 + b2 (mod n)` (compatibility with addition)
-  + `a1 – a2 ≡ b1 – b2 (mod n)` (compatibility with subtraction)
-  + `a1 * a2 ≡ b1 * b2 (mod n)` (compatibility with multiplication)
+	+ `a1 + a2 ≡ b1 + b2 (mod n)` (compatibility with addition)
+	+ `a1 – a2 ≡ b1 – b2 (mod n)` (compatibility with subtraction)
+	+ `a1 * a2 ≡ b1 * b2 (mod n)` (compatibility with multiplication)
 
 If a ≡ b (mod n), then it is false, in general, that ka ≡ kb (mod n). However, one has:
 
 If c ≡ d (mod φ(n)), where φ is Euler's totient function, then ac ≡ ad (mod n) provided a is coprime with n
 
 - For cancellation of common terms, we have the following rules:
-  + Nếu `a + k ≡ b + k (mod n)` với mọi số nguyên k thì `a ≡ b (mod n)`
-  + Nếu `k * a ≡ k * b (mod n)` và k với n nguyên tố cùng nhau thì `a ≡ b (mod n)`
+	+ Nếu `a + k ≡ b + k (mod n)` với mọi số nguyên k thì `a ≡ b (mod n)`
+	+ Nếu `k * a ≡ k * b (mod n)` và k với n nguyên tố cùng nhau thì `a ≡ b (mod n)`
+
+- Phép nghịch đảo số dư (hay vừa chia vừa số dư):
+	+ Ví dụ: Bạn có thể tính kết quả của phép tính `(6 / 2) mod 10` một cách dễ dàng, nhưng nếu tôi cho bạn:
+	```
+	a = 100000! mod (10^9+7)
+	b = 50000! mod (10^9+7)
+	c = 49999! mod (10^9+7)
+	```
+	bạn không thể nào tính `100000! / (50000! * 49999!) mod (10^9+7)` bằng cách `(a / (b*c)) mod (10^9+7)` được.
+	+ Từ đây ta có định nghĩa về phép nghịch đảo số dư.
 
 Lastly, let the multiplicative inverse of a be denoted by a–1, then we have the following rules:
 
