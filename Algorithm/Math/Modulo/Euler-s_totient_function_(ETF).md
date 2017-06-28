@@ -27,6 +27,21 @@ với <img src="https://latex.codecogs.com/gif.latex?p_1<p_2<\cdots<p_m" title="
 <img src="https://latex.codecogs.com/gif.latex?\varphi(n)=p_1^{k_1}\left(1-\frac{1}{p_1}\right)p_2^{k_2}\left(1-\frac{1}{p_2}\right)\cdots&space;p_m^{k_m}\left(1-\frac{1}{p_m}\right)" title="\varphi(n)=p_1^{k_1}\left(1-\frac{1}{p_1}\right)p_2^{k_2}\left(1-\frac{1}{p_2}\right)\cdots p_m^{k_m}\left(1-\frac{1}{p_m}\right)" />
 <img src="https://latex.codecogs.com/gif.latex?\varphi(n)=n\left(1-\frac{1}{p_1}\right)\left(1-\frac{1}{p_2}\right)\cdots&space;\left(1-\frac{1}{p_m}\right)" title="\varphi(n)=n\left(1-\frac{1}{p_1}\right)\left(1-\frac{1}{p_2}\right)\cdots \left(1-\frac{1}{p_m}\right)" />
 
+# Pseudocode
+```
+sieve() // sàng nguyên tố
+
+phi(n) {
+	res = n;
+	for (tất cả các số nguyên tố p <= n) {
+		if (n % p == 0) {
+			res = (res * (p - 1)) / p
+		}
+	}
+	return res
+}
+```
+
 # Cài đặt thử
 [ETF - spoj](http://vn.spoj.com/problems/ETF/)
 
