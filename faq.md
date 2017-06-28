@@ -31,7 +31,7 @@ Hướng đi | Ngôn ngữ
 --- | ---
 Lập trình Website - Front-end | HTML5, CSS3, Javasript
 Lập trình Website - Back-end | Javascript, Python, Ruby, PHP, Java, ASP.NET<br/>Và một chút Front-end
-Lập trình Android | Java, Javascript
+Lập trình Android | Java, Javascript, Kotlin
 Lập trình iOS | Swift, Javascript, Objective-C
 Viết ứng dụng PC | C#, Java, C++ (Qt Framework), Delphi
 Phát triển Game | C++, C#, Javascript + HTML5 + CSS3
