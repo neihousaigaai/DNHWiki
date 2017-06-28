@@ -16,15 +16,15 @@ Kí hiệu `a ≡ b (mod n)`
 * Tính chất bắc cầu: Nếu `a ≡ b (mod n)` và `b ≡ c (mod n)` thì `a ≡ c (mod n)`
 
 * Nếu `a ≡ b (mod n)` thì:
-	- `a + k ≡ b + k (mod n)` với mọi số nguyên k (compatibility with translation)
-	- `k * a ≡ k * b (mod n)` với mọi số nguyên k (compatibility with scaling)
-	- `a^k ≡ b^k (mod n)` với mọi số nguyên không âm k (compatibility with exponentiation)
-	- `p(a) ≡ p(b) (mod n)`, với mọi đa thức `p(x)` với các hệ số nguyên (compatibility with polynomial evaluation)
+	- `a + k ≡ b + k (mod n)` với mọi số nguyên k
+	- `k * a ≡ k * b (mod n)` với mọi số nguyên k
+	- `a^k ≡ b^k (mod n)` với mọi số nguyên không âm k
+	- `p(a) ≡ p(b) (mod n)`, với mọi đa thức `p(x)` với các hệ số nguyên
 
 * Nếu `a1 ≡ b1 (mod n)` và `a2 ≡ b2 (mod n)` thì:
-	- `a1 + a2 ≡ b1 + b2 (mod n)` (compatibility with addition)
-	- `a1 – a2 ≡ b1 – b2 (mod n)` (compatibility with subtraction)
-	- `a1 * a2 ≡ b1 * b2 (mod n)` (compatibility with multiplication)
+	- `a1 + a2 ≡ b1 + b2 (mod n)` (tính chất cộng)
+	- `a1 – a2 ≡ b1 – b2 (mod n)` (tính chất trừ)
+	- `a1 * a2 ≡ b1 * b2 (mod n)` (tính chất nhân)
 
 * Ngược lại một số tính chất tiêu biểu ta đã nói ở trên, ta có:
 	- Nếu `a + k ≡ b + k (mod n)` với mọi số nguyên k thì `a ≡ b (mod n)`
@@ -40,10 +40,10 @@ Kí hiệu `a ≡ b (mod n)`
 	bạn không thể nào tính `100000! / (50000! * 49999!) mod (10^9+7)` bằng cách `(a / (b*c)) mod (10^9+7)` được.
 	Từ đây ta có định nghĩa về phép nhân nghịch đảo số dư.
 	- Tồn tại phép nhân nghịch đảo số dư: tồn tại một số nguyên kí hiệu là `a^(-1)` mà `a * (a^(-1)) ≡ 1 (mod n)` <=> a và n nguyên tố cùng nhau.
-	- Nếu `a ≡ b (mod n)` và tồn tại `a^(–1)` thì `a^(–1) ≡ b^(–1) (mod n)` (compatibility with multiplicative inverse)
+	- Nếu `a ≡ b (mod n)` và tồn tại `a^(–1)` thì `a^(–1) ≡ b^(–1) (mod n)` (tính chất nhân nghịch đảo)
 	- Định nghĩa phép chia: `a / b ≡ a * (b^(-1)) (mod n)` với b và n nguyên tố cùng nhau.
 
-* Một số tính chất khác:
+* Một số tính chất thường dùng:
 	- Định lý nhỏ Fermat: Nếu p nguyên tố thì `a^(p-1) ≡ 1 (mod p)` với `0 < a < p`
 	- Hệ quả của định lý nhỏ Fermat: Nếu p nguyên tố thì `a^(−1) ≡ a^(p − 2) (mod p)` (phép nhân nghịch đảo số dư, 0 < a < p).
 	- Định lý Euler: Nếu a và n nguyên tố cùng nhau thì `a^φ(n) ≡ 1 (mod n)` với `φ` là Euler's totient function (ở [đây](/Algorithm/Math/Modulo/Euler-s_totient_function_(ETF).md))
@@ -52,8 +52,6 @@ Kí hiệu `a ≡ b (mod n)`
 		+ Nếu `a ≡ b (mod φ(n))` thì `k^a ≡ k^b (mod n)` với k và n nguyên tố cùng nhau.
 	- Định lý Wilson: p nguyên tố <=> `(p − 1)! ≡ −1 (mod p)`
 	- Định lý số dư Trung Hoa (Chinese remainder theorem): Nếu `x ≡ a (mod m)` và `x ≡ b (mod n)` với m, n nguyên tố cùng nhau thì `x ≡ b*(m_n^(–1))*m + a*(n_m^(–1))*n (mod m * n)` (với `m_n^(−1) = m^(-1) mod n` và `n_m^(−1) = n^(-1) mod m`).
-	- Định lý Lagrange: The congruence `f(x) ≡ 0 (mod p)`, where p is prime, and `f(x) = a0 xn + ... + an` is a polynomial with integer coefficients such that `a0 ≠ 0 (mod p)`, has at most n roots.
-	- Primitive root modulo n: A number g is a primitive root modulo n if, for every integer a co-prime to n, there is an integer k such that gk ≡ a (mod n). A primitive root modulo n exits if and only if n is equal to 2, 4, pk or 2pk, where p is an odd prime number. If a primitive root modulo n exists, then there are exactly φ(φ(n)) such primitive roots, where φ is the Euler's totient function.
 	- Quadratic residue: Số nguyên a là quadratic residue mod n nếu tồn tại một số nguyên x mà `x^2 ≡ a (mod n)`. Euler's criterion asserts that, nếu p là số nguyên tố lẻ, thì a là quadratic residue mod p <=> `a^((p-1)/2) ≡ 1 (mod p)`
 
 # Tài liệu tham khảo
