@@ -9,6 +9,7 @@ Các tài liệu tổng hợp gồm từ nhiều nguồn cho các bạn tham kh�
     - [Javascript](#onlineresource-eng-js)
     - [Java](#onlineresource-eng-java)
     - [Python](#onlineresource-eng-python)
+    - [PHP](#onlineresource-eng-php)
     - [Lập trình web](#onlineresource-eng-web)
     - [Lập trình di động](#onlineresource-eng-mobile)
     - [Khác](#onlineresource-eng-other)
@@ -16,6 +17,8 @@ Các tài liệu tổng hợp gồm từ nhiều nguồn cho các bạn tham kh�
       - [Official Tutorials](#onlineresource-eng-other-officialtuts)
   - [Tiếng Việt](#onlineresource-vi)
 - [Sách](#book)
+- [Cryptography - Mật mã học](https://github.com/drgnz/DNHWiki/blob/master/crypto.md)
+- [Data structure and Algorithm - Cấu trúc dữ liệu và Giải thuật](https://github.com/drgnz/DNHWiki/blob/master/Algorithm/introduction.md)
 
 -------
 <a name="onlineresource"></a>
@@ -29,17 +32,17 @@ Phần này được dịch và tham khảo từ Reddit
   - [.NET Tutorial từ Microsoft](https://www.microsoft.com/net/tutorials/csharp/getting-started)
   - [C# Tutorial từ Tutorialspoint](http://www.tutorialspoint.com/csharp/index.htm)
   - [LearnC#.org](http://www.learncs.org/)
-  
+
 <a name="onlineresource-eng-ruby"></a>
 - Ruby:
   - [Rubymonk](https://rubymonk.com/)
   - [Tryruby](http://tryruby.org/levels/1/challenges/0)
-  
+
 <a name="onlineresource-eng-js"></a>
 - Javascript:
   - [Eloquent JavaScript](http://eloquentjavascript.net/)
   - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-  
+
 <a name="onlineresource-eng-java"></a>
 - Java:
   - [The Official Oracle Java tutorial](http://docs.oracle.com/javase/tutorial/)
@@ -52,31 +55,45 @@ Phần này được dịch và tham khảo từ Reddit
   - Java Design Patterns and Architecture by John Purcell
     - [Udemy](https://www.udemy.com/java-design-patterns-tutorial)
     - [Caveofprogramming](http://courses.caveofprogramming.com/course/java-design-patterns-and-architecture/)
-    
+
 <a name="onlineresource-eng-python"></a>
 - Python:
   - [Learnpython](http://www.learnpython.org/)
   - [Invent with python](http://inventwithpython.com/) - Sách miễn phí đọc online
   - [Learn python the hard way](https://learnpythonthehardway.org/book/)
   - [Program Arcade Game with Python and Pygame](http://programarcadegames.com/)
-  
+
+<a name="onlineresource-eng-php"></a>
+- PHP:
+  - [PHP the right way - Best practices](http://www.phptherightway.com), [Bản dịch](https://nhaancs.github.io/php-the-right-way/)
+  - [phpdelusions.net - PDO, MySQL, SQL injection](http://phpdelusions.net/)
+  - [PSR - Coding standard](http://www.php-fig.org/psr/)
+  - [PHP Pandas - Sách](https://daylerees.com/php-pandas/)
+  - [Modern PHP - Sách hay](https://github.com/codeguy/modern-php)
+  - [Laracasts - Video lập trình PHP, Laravel](https://laracasts.com)
+  - [Composer - Package management](https://getcomposer.org/)
+  - [Hacking with php](http://www.hackingwithphp.com/)
+  - [Other Resouces](https://github.com/ziadoz/awesome-php)
+
 <a name="onlineresource-eng-web"></a>
 - Lập trình web:
+  - [The Odin Project](http://www.theodinproject.com)
+  - [Free Code Camp](https://www.freecodecamp.com/)
   - [\<Snoopcode/>](http://www.snoopcode.com/)
   - [CSS3, please](http://css3please.com/)
   - [I \<3 PHP](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
-  
+
 <a name="onlineresource-eng-mobile"></a>
 - Lập trình di động:
   - Updating
-  
+
 <a name="onlineresource-eng-other"></a>
 - Khác:
   - Haskell:
     - [Try haskell](http://tryhaskell.org/)
-    - [Learn you a haskell](http://learnyouahaskell.com)  
+    - [Learn you a haskell](http://learnyouahaskell.com)
   - C++:
-    - [Linear C++](https://github.com/jesyspa/linear-cpp)    
+    - [Linear C++](https://github.com/jesyspa/linear-cpp)
   <a name="onlineresource-eng-other-onlinecourse"></a>
   - Online course:
     - [Coursera](https://www.coursera.org/)
@@ -84,7 +101,7 @@ Phần này được dịch và tham khảo từ Reddit
     - [Udacity](https://www.udacity.com/)
     - [Udemy](https://udemy.com/)
     - [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
-    - [Introduction to CS using Java](http://chortle.ccsu.edu/java5/index.html) 
+    - [Introduction to CS using Java](http://chortle.ccsu.edu/java5/index.html)
   <a name="onlineresource-eng-other-officialtuts"></a>
   - Official Tutorials:
     - [Java](http://docs.oracle.com/javase/tutorial/)
@@ -93,7 +110,7 @@ Phần này được dịch và tham khảo từ Reddit
       - [Visual C++ with VS2015](https://msdn.microsoft.com/en-us/library/60k1461a.aspx)
     - [Python 2 Tutorial](http://docs.python.org/tutorial/) & [Python 3 tutorial](http://docs.python.org/release/3.0.1/tutorial/)
     - [Git](http://git-scm.com/documentation)
-    - [Perl Library ](https://www.perl.org/books/library.html)  
+    - [Perl Library ](https://www.perl.org/books/library.html)
   - [Bottom up Computer Science](https://www.bottomupcs.com/)
   - [Google's Technical Development Guide](https://www.google.com.sg/about/careers/students/guide-to-technical-development.html)
   - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
@@ -101,7 +118,7 @@ Phần này được dịch và tham khảo từ Reddit
   - [Coding Inteview University](https://github.com/jwasham/coding-interview-university) - Có Tiếng Việt
   - [Simple CPU](http://www.simplecpu.com/Binary.html)
   - [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
-  
+
 <a name="onlineresource-vi"></a>
 ## Tiếng Việt:
  - [Tài liệu lập trình C for newbie](https://daynhauhoc.com/t/tai-lieu-lap-trinh-c-for-newbie-chuong-1-nen-tang-de-bat-dau/1537) của [MiN](https://daynhauhoc.com/users/tbm_2512)
@@ -109,6 +126,7 @@ Phần này được dịch và tham khảo từ Reddit
  - [Video lập trình của Sơn Đẹp Trai](https://daynhauhoc.com/t/tong-hop-cac-clip-huong-dan-c-c-cua-son-dep-trai/1732) - chia sẻ bởi [TTmagic](https://daynhauhoc.com/users/TTmagic)
  - [Video dạy Python của Lê Trần Đạt](https://daynhauhoc.com/t/tong-hop-video-python-cua-le-tran-dat/4118) của [Lê Trần Đạt](https://daynhauhoc.com/users/ltd)
 - [Khóa học C++](https://daynhauhoc.com/t/gioi-thieu-khoa-hoc-lap-trinh-huong-doi-tuong-c-tren-udemy-do-minh-xay-dung/20511) thực hiện bởi [Nguyễn Văn Khoa](https://daynhauhoc.com/users/VanKhoa)
+- [Khóa học Android của Udacity được Vietsub của DNH](https://daynhauhoc.com/t/vietsub-khoa-hoc-android-mien-phi-cua-udacity/9248) - Vietsub bởi [Thành Phạm](https://daynhauhoc.com/users/thanhmssl10), [TTmagic](https://daynhauhoc.com/users/TTmagic), [Minh Hoàng](https://daynhauhoc.com/users/rok_hoang)
 
 -----
 <a name="book"></a>
@@ -132,10 +150,10 @@ Phần này được dịch và tham khảo từ Reddit
 - [Sách được nhắc tới nhiều trên Hacker news](http://hackernewsbooks.com/)
 - [Sách được nhắc tới nhiều trên StackOverflow](http://www.dev-books.com/)
 
-## Được chia sẽ bởi cộng đồng DNH:
+## Được chia sẻ bởi cộng đồng DNH:
 
 - [Chia sẻ tài liệu C/C++](https://daynhauhoc.com/t/wiki-chia-se-tai-lieu-lap-trinh-c-c/463) topic của [nhtuan](https://daynhauhoc.com/users/nhtuan)
-- [chia sẽ sách lập trình C++ và Java](https://daynhauhoc.com/t/share-sach-cho-cac-b-n-c-c-java/20430) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
+- [Chia sẻ sách lập trình C++ và Java](https://daynhauhoc.com/t/share-sach-cho-cac-b-n-c-c-java/20430) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
 - [Kho sách lập trình](https://daynhauhoc.com/t/chia-se-sach-lap-trinh-cho-cac-ban/24124) chia sẽ bởi [Quốc Hùng](https://daynhauhoc.com/users/conan4582)
 - [Ebook lập trình tổng hợp](https://daynhauhoc.com/t/tai-lieu-ebook-eng-viet-it/17689) chia sẽ bởi [Lê Minh Đăng](https://daynhauhoc.com/users/minhdang)
 - [Bảo Mật Nhập Môn](https://daynhauhoc.com/t/gioi-thieu-ebook-tu-viet-bao-mat-nhap-mon-bao-mat-co-ban-cho-developer-free-download/40010) của [Huy Hoàng Phạm](https://daynhauhoc.com/users/Huy_Hoang_Pham)
