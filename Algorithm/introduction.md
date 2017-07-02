@@ -10,3 +10,4 @@ Nơi chia sẻ về Cấu trúc dữ liệu và Thuật toán, Giải thuật
 ## Tiếng Việt
 - [VNOI wiki](http://vnoi.info/wiki/Home)
 - Giải thuật & Lập trình - Lê Minh Hoàng
+- Tài liệu giáo khoa chuyên Tin - Nhiều tác giả
