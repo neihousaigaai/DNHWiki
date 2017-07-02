@@ -137,7 +137,8 @@ Tên gọi          | Độ phức tạp             | Ví dụ              | M
 -----------------|-------------------------|--------------------|-----------------------------------------------------
  hằng số         | O(1)                    | `5, 10,...`        | Các phép toán `+, -, *, /,...`; truy cập vào phần tử trong mảng
  log (hay ln)    | O(log n)                | `log n, log(n^2)`  | Chặt nhị phân (binary search), dùng chia để trị để tính luỹ thừa,...
- log log         | O(log log n)            |                    | Sàng Eratosthenes
+ log log         | O(log log n)            |                    | 
+ n log log       | O(n log log n)          |                    | Sàng Eratosthenes
  luỹ thừa phân số| O(n^c) (0 < c < 1)      | `n^(1/2), n^(2/3)` | Kiểm tra nguyên tố thông thường
  tuyến tính      | O(n)                    | `n, 2*n`           | Duyệt tất cả các phần tử của mảng
  n log           | O(n log n)              | `n log n, log n!`  | Merge sort
