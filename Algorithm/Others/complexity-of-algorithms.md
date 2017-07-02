@@ -27,10 +27,13 @@ Ta hãy nhìn code của A một chút:
 // đây là code của A, không có comment, nhưng mình thêm vào cho đẹp
 bool is_prime(int n) {
 	if (n < 2) return false;
-
-	for (int k = 2; k * k <= n; k++)  // điều kiện k * k <= n tương đương với k <= trunc(sqrt(n)). Trunc là hàm lấy phần nguyên.
-		if (n % k == 0) return false;
 	
+	if (n > 2) {
+		if (n % 2 == 0) return false;
+
+		for (int k = 3; k * k <= n; k += 2)  // điều kiện k * k <= n tương đương với k <= trunc(sqrt(n)). Trunc là hàm lấy phần nguyên.
+			if (n % k == 0) return false;
+	}
 	return true;
 }
 ```
