@@ -65,7 +65,7 @@ Nếu một thuật toán có thời gian thực hiện `T(n) = O(f(n))` chúng 
 
 - Nói một cách đơn giản, `f(n)` là **hạng tử có bậc cao nhất** của đa thức `T(n)`. Đôi khi ta không cần quan tâm đến hệ số đi kèm `f(n)`, tức là
 ```
-O(k * f(n)) = O(f(n)) với k là hệ số
+O(k * f(n)) = O(f(n)) với k là hằng số dương
 ```
 - Ví dụ:
 Giả sử `T(n) = n^2 + 2n`, ta có `n^2 + 2n < n^2 + 2n^2 = 3n^2` với mọi `n >= 1`
@@ -121,9 +121,9 @@ Vậy T(n) = O(n^2), trong trường hợp này ta nói thuật toán có thời
 
 	- Thời gian thực hiện các lệnh đơn (gán, đọc, viết, tính toán: cộng, trừ, nhân, chia, mod,...) là O(1)
 
-	- Lệnh hợp thành: giả sử thời gian thực hiện của S1, S2,…,Sm tương ứng là `O(f_1(n)), O(f_2(n)),..., O(f_m(n))`. Khi đó thời gian thực hiện của lệnh hợp thành là `O(max(f_1(n), f_2(n),..., f_m(n))) = O(f_1(n) + f_2(n) + ... + f_m(n))`
+	- Lệnh hợp thành: giả sử thời gian thực hiện của S1, S2,…,Sm tương ứng là `O(f_1(n)), O(f_2(n)),..., O(f_m(n))`. Khi đó thời gian thực hiện của lệnh hợp thành là `O(max(f_1(n), f_2(n),..., f_m(n)))`
 
-	- Lệnh `if`: giả sử thời gian thực hiện của S1, S2 tương ứng là `O(f_1(n)), O(f_2(n))`. Khi đó thời gian thực hiện của lệnh `if` là `O(max(f_1(n), f_2(n)) = O(f_1(n) + f_2(n))`.
+	- Lệnh `if`: giả sử thời gian thực hiện của S1, S2 tương ứng là `O(f_1(n)), O(f_2(n))`. Khi đó thời gian thực hiện của lệnh `if` là `O(max(f_1(n), f_2(n))`.
 
 	- Lệnh lặp: giả sử thời gian thực hiện lệnh S (thân của lệnh lặp) là `O(f(n))` và `g(n)` là số lần lặp tối đa thực hiện lệnh S. Khi đó thời gian thực hiện lệnh lặp là `O(f(n)*g(n))`.
 
