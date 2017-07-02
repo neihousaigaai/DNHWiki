@@ -149,4 +149,5 @@ Tên gọi          | Độ phức tạp             | Ví dụ              | M
  giai thừa       | O(n!)                   | `O(n!)`            | Thuật toán sinh hoán vị của dãy từ 1 đến n
 
 # Tài liệu tham khảo
-Tài liệu chuyên Tin quyển 1 - Nhiều tác giả
+- Tài liệu chuyên Tin quyển 1 - Nhiều tác giả
+- [Table of common time complexities - Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Table_of_common_time_complexities)
