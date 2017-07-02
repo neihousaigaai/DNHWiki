@@ -115,18 +115,17 @@ Vậy T(n) = O(n^2), trong trường hợp này ta nói thuật toán có thời
 		S;
 	}
 	```
-	đều là câu lệnh (được gọi là lệnh lặp có điều kiện).
+	đều là câu lệnh (được gọi là lệnh lặp).
 
 - Để đánh giá, chúng ta phân tích chương trình xuất phát từ các lệnh đơn, rồi đánh giá các lệnh phức tạp hơn, cuối cùng đánh giá được thời gian thực hiện của chương trình, cụ thể:
 
 	- Thời gian thực hiện các lệnh đơn (gán, đọc, viết, tính toán: cộng, trừ, nhân, chia, mod,...) là O(1)
 
-	- Lệnh hợp thành: giả sử thời gian thực hiện của S1, S2,…,Sm tương ứng là `O(f_1(n)), O(f_2(n)),..., O(f_m(n))`. Khi đó thời gian thực hiện của lệnh hợp
-	thành là `O(max(f_1(n), f_2(n),..., f_m(n)))`
+	- Lệnh hợp thành: giả sử thời gian thực hiện của S1, S2,…,Sm tương ứng là `O(f_1(n)), O(f_2(n)),..., O(f_m(n))`. Khi đó thời gian thực hiện của lệnh hợp thành là `O(max(f_1(n), f_2(n),..., f_m(n))) = O(f_1(n) + f_2(n) + ... + f_m(n))`
 
-	- Lệnh `if`: giả sử thời gian thực hiện của S1, S2 tương ứng là `O(f_1(n)), O(f_2(n))`. Khi đó thời gian thực hiện của lệnh `if` là `O(max(f_1(n), f_2(n))`.
+	- Lệnh `if`: giả sử thời gian thực hiện của S1, S2 tương ứng là `O(f_1(n)), O(f_2(n))`. Khi đó thời gian thực hiện của lệnh `if` là `O(max(f_1(n), f_2(n)) = O(f_1(n) + f_2(n))`.
 
-	- Lệnh lặp: giả sử thời gian thực hiện lệnh S (thân của lệnh lặp) là `O(f(n))` và `g(n)` là số lần lặp tối đa thực hiện lệnh S. Khi đó thời gian thực hiện lệnh While là `O(f(n)*g(n))`.
+	- Lệnh lặp: giả sử thời gian thực hiện lệnh S (thân của lệnh lặp) là `O(f(n))` và `g(n)` là số lần lặp tối đa thực hiện lệnh S. Khi đó thời gian thực hiện lệnh lặp là `O(f(n)*g(n))`.
 
 > Tuỳ vào mỗi thuật toán sẽ có độ phức tạp khác nhau. Lí thuyết của phần này sử dụng khá nhiều đến tư duy toán nên có thể nhiều bạn sẽ không hiểu. Tuy nhiên mình mong rằng bạn sẽ cố gắng đọc và nắm được phần nào lí thuyết của phần này.
 
