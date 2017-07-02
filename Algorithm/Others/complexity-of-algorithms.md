@@ -132,5 +132,20 @@ Vậy T(n) = O(n^2), trong trường hợp này ta nói thuật toán có thời
 
 > Tuỳ vào mỗi thuật toán sẽ có độ phức tạp khác nhau. Lí thuyết của phần này sử dụng khá nhiều đến tư duy toán nên có thể nhiều bạn sẽ không hiểu. Tuy nhiên mình mong rằng bạn sẽ cố gắng đọc và nắm được phần nào lí thuyết của phần này.
 
+# Một số độ phức tạp thường gặp
+Tên gọi          | Độ phức tạp             | Ví dụ              | Một số thuật toán có độ phức tạp như vậy
+-----------------|-------------------------|--------------------|-----------------------------------------------------
+ hằng số         | O(1)                    | `5, 10,...`        | Các phép toán `+, -, *, /,...`; truy cập vào phần tử trong mảng
+ log (hay ln)    | O(log n)                | `log n, log(n^2)`  | Chặt nhị phân (binary search), dùng chia để trị để tính luỹ thừa,...
+ log log         | O(log log n)            |                    | Sàng Eratosthenes
+ luỹ thừa phân số| O(n^c) (0 < c < 1)      | `n^(1/2), n^(2/3)` | Kiểm tra nguyên tố thông thường
+ tuyến tính      | O(n)                    | `n, 2*n`           | Duyệt tất cả các phần tử của mảng
+ n log           | O(n log n)              | `n log n, log n!`  | Merge sort
+ bình phương     | O(n^2)                  | `n^2`              | Bubble sort, Insertion sort
+ lập phương      | O(n^3)                  | `n^3`              | Thuật toán Floyd-Warshall tìm đường đi ngắn nhất trên đồ thị
+ đa thức         | O(n^k) (k nguyên dương) | `n^4, n^5`         |
+ luỹ thừa        | O(k^n) (k > 1)          | `2^n, 10^n`        | Thuật toán sinh dãy có n phần tử, mỗi phần tử nhỏ hơn k
+ giai thừa       | O(n!)                   | `O(n!)`            | Thuật toán sinh hoán vị của dãy từ 1 đến n
+
 # Tài liệu tham khảo
 Tài liệu chuyên Tin quyển 1 - Nhiều tác giả
