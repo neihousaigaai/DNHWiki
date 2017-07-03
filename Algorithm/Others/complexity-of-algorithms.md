@@ -124,9 +124,9 @@ Vậy T(n) = O(n^2), trong trường hợp này ta nói thuật toán có thời
 
 	- Thời gian thực hiện các lệnh đơn (gán, đọc, viết, tính toán: cộng, trừ, nhân, chia, mod,...) là O(1)
 
-	- Lệnh hợp thành: giả sử thời gian thực hiện của S1, S2,…,Sm tương ứng là `O(f_1(n)), O(f_2(n)),..., O(f_m(n))`. Khi đó thời gian thực hiện của lệnh hợp thành là `O(max(f_1(n), f_2(n),..., f_m(n)))`
+	- Lệnh hợp thành: giả sử thời gian thực hiện của S1, S2,…,Sm tương ứng là `O(f_1(n)), O(f_2(n)),..., O(f_m(n))`. Khi đó thời gian thực hiện của lệnh hợp thành là `O(f_1(n) + f_2(n) + ... + f_m(n)) = O(max(f_1(n), f_2(n),..., f_m(n)))`
 
-	- Lệnh `if`: giả sử thời gian thực hiện của S1, S2 tương ứng là `O(f_1(n)), O(f_2(n))`. Khi đó thời gian thực hiện của lệnh `if` là `O(max(f_1(n), f_2(n))`.
+	- Lệnh `if`: giả sử thời gian thực hiện của S1, S2 tương ứng là `O(f_1(n)), O(f_2(n))`. Khi đó thời gian thực hiện của lệnh `if` là `O(f_1(n) + f_2(n)) = O(max(f_1(n), f_2(n)))`.
 
 	- Lệnh lặp: giả sử thời gian thực hiện lệnh S (thân của lệnh lặp) là `O(f(n))` và `g(n)` là số lần lặp tối đa thực hiện lệnh S. Khi đó thời gian thực hiện lệnh lặp là `O(f(n)*g(n))`.
 
@@ -137,8 +137,6 @@ Tên gọi          | Độ phức tạp             | Ví dụ              | M
 -----------------|-------------------------|--------------------|-----------------------------------------------------
  hằng số         | O(1)                    | `5, 10,...`        | Các phép toán `+, -, *, /,...`; truy cập vào phần tử trong mảng
  log (hay ln)    | O(log n)                | `log n, log(n^2)`  | Chặt nhị phân (binary search), dùng chia để trị để tính luỹ thừa,...
- log log         | O(log log n)            |                    | 
- n log log       | O(n log log n)          |                    | Sàng Eratosthenes
  luỹ thừa phân số| O(n^c) (0 < c < 1)      | `n^(1/2), n^(2/3)` | Kiểm tra nguyên tố thông thường
  tuyến tính      | O(n)                    | `n, 2*n`           | Duyệt tất cả các phần tử của mảng
  n log           | O(n log n)              | `n log n, log n!`  | Merge sort
