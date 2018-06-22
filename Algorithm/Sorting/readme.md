@@ -16,9 +16,9 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 > #### 1.3. Slow sort: An easy sort = Selection Sort + Bubble Sort
 > #### 2.1. Quick sort: Quick Sort
 > #### 2.2. Quick sort: Merge Sort
+> #### 2.3. Distribution counting (Đếm phân phối)
 > #### 3.1. Sự so sánh (comparison)
 > #### 3.2. Mở rộng: Các thuật toán sort với sự so sánh riêng
-> #### 3.3. Hard sort: ..., có thể là sort với số thực
+> #### 3.3. Hard sort: ..., có thể là sort với số thực (Radix Sort)
 > #### 3.4. Một số thuật toán "lạ" có áp dụng sự so sánh
 > #### 4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình
-
