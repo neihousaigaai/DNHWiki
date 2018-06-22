@@ -10,7 +10,7 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 
 **Mục lục những bài viết trong chuyên mục này:**
 
-> #### 0. Overall
+> #### [0. Overall](0-Overall.md)
 > #### 1.1. Slow sort: Selection Sort
 > #### 1.2. Slow sort: Bubble Sort
 > #### 1.3. Slow sort: An easy sort = Selection Sort + Bubble Sort
@@ -21,4 +21,4 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 > #### 3.2. Mở rộng: Các thuật toán sort với sự so sánh riêng
 > #### 3.3. Hard sort: ..., có thể là sort với số thực (Radix Sort)
 > #### 3.4. Một số thuật toán "lạ" có áp dụng sự so sánh
-> #### 4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình
+> #### [4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình](4-built-in-sort-function.md)
