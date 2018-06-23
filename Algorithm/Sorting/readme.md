@@ -1,6 +1,6 @@
 Chào mừng các bạn đến với mục Algorithm của DNHWiki.
 
-Đây là bài mở đầu cho chuỗi bài về các **thuật toán sắp xếp** - một trong những loại thuật toán quan trọng nhất mà bạn cần phải biết.
+Đây là chuỗi bài viết về các **thuật toán sắp xếp** - một trong những loại thuật toán quan trọng nhất mà bạn cần phải biết.
 
 Bạn có thể không quá nghiêm túc vào việc học thuật toán, nhưng bạn có thể đọc để biết trên đời này tồn tại một thứ gọi là *thuật toán sắp xếp*, biết cách nó hoạt động thế nào, và trong nhiều trường hợp còn có thể trả lời ngon lành với thầy cô, hoặc với nhà tuyển dụng rằng: "Thuật toán sắp xếp này dễ ẹc, để tôi/em giải thích...".
 
@@ -22,3 +22,5 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 > #### 3.3. Hard sort: ..., có thể là sort với số thực (Radix Sort)
 > #### 3.4. Một số thuật toán "lạ" có áp dụng sự so sánh
 > #### [4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình](4-built-in-sort-function.md)
+
+Mỗi bài sẽ đi kèm với 1 đoạn code demo với các ngôn ngữ Pascal, C++, Python.
