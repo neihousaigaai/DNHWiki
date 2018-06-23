@@ -10,7 +10,7 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 
 **Mục lục những bài viết trong chuyên mục này:**
 
-> #### [0. Overall](0-Overall.md)
+> #### [0. Getting Started](0-getting-started.md)
 > #### 1.1. Slow sort: Selection Sort
 > #### 1.2. Slow sort: Bubble Sort
 > #### 1.3. Slow sort: An easy sort = Selection Sort + Bubble Sort
