@@ -10,35 +10,33 @@ Chọn phần tử nhỏ nhất trong mảng rồi đưa nó về đầu mảng,
 
 #### Ví dụ
 
-Cho mảng `a = [8, 4, 1, 3, 9, 2, 5, 7, 6, 10]`
+Cho mảng `a = [8, 4, 1, 3, 9, 2]`
 
 - B1. `i = 0`:
 
 ```
-a = [8, 4, 1, 3, 9, 2, 5, 7, 6, 10]   ---->   a = [1, 4, 8, 3, 9, 2, 5, 7, 6, 10]
-     ^     ^                                       ^     ^
-     i     |                                       |     ta phải đưa phần tử a[i] cũ (8) vào vị trí còn trống,
-           |                                       |     phần tử 1 vừa đi rồi thì phải đưa
- vị trí phần tử nhỏ nhất                           |     cái-gì-đó vào đây cho đỡ trống chứ
-  trong đoạn a[0 -> 9]                             |
-                                                   phần tử nhỏ nhất trong đoạn a[0 -> 9] (1)
-                                                   đã được đưa về đầu đoạn a[0 -> 9]
+a = [8, 4, 1, 3, 9, 2]   ---->   a = [1, 4, 8, 3, 9, 2]
+     ^     ^                          ^     ^
+     i     |                          |     ta phải đưa phần tử a[i] cũ (8) vào vị trí còn trống,
+           |                          |     phần tử 1 vừa đi rồi thì phải đưa
+ vị trí phần tử nhỏ nhất              |     cái-gì-đó vào đây cho đỡ trống chứ
+  trong đoạn a[0 -> 9]                |
+                                      phần tử nhỏ nhất trong đoạn a[0 -> 9] (1)
+                                      đã được đưa về đầu đoạn a[0 -> 9]
 ```
 
 - B2. `i = 1`:
 
 ```
-a = [1, 4, 8, 3, 9, 2, 5, 7, 6, 10]   ---->   a = [1, 2, 8, 3, 9, 4, 5, 7, 6, 10]
-        ^           ^                                 ^           ^
-        i           |                                 |           ta phải đưa phần tử a[i] cũ (4) vào vị trí còn trống
-                    |                                 |
-          vị trí phần tử nhỏ nhất                     |
-           trong đoạn a[1 -> 9]                       |
-                                                      phần tử nhỏ nhất trong đoạn a[1 -> 9] (2)
-                                                      đã được đưa về đầu đoạn a[1 -> 9]
+a = [1, 4, 8, 3, 9, 2]   ---->   a = [1, 2, 8, 3, 9, 4]
+        ^           ^                    ^           ^
+        i           |                    |           ta phải đưa phần tử a[i] cũ (4) vào vị trí còn trống
+                    |                    |
+          vị trí phần tử nhỏ nhất        |
+           trong đoạn a[1 -> 9]          |
+                                         phần tử nhỏ nhất trong đoạn a[1 -> 9] (2)
+                                         đã được đưa về đầu đoạn a[1 -> 9]
 ```
-
-
 
 ## Pseudocode
 
