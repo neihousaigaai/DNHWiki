@@ -19,8 +19,8 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 > #### [2.3. Distribution counting (Đếm phân phối)]()
 > #### [3.1. Sự so sánh (comparison)]()
 > #### [3.2. Mở rộng: Các thuật toán sort với sự so sánh riêng]()
-> #### [3.3. Hard sort: ..., có thể là sort với số thực (Radix Sort)]()
-> #### [3.4. Một số thuật toán "lạ" có áp dụng sự so sánh]()
+> #### [3.3. Hard sort: ...](), có thể là Radix Sort (có thể dùng để sort với số thực)
+> #### [3.4. Một (số) thuật toán "lạ" có áp dụng sự so sánh]()
 > #### [4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình](4-built-in-sort-function.md)
 
 Mỗi bài sẽ đi kèm với 1 đoạn code demo với các ngôn ngữ Pascal, C++, Python.
