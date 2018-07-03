@@ -35,3 +35,5 @@ Người viết cũng đã tham khảo từ đây, nên hãy yên tâm là ngu�
 - Tài liệu chuyên Tin quyển 1 (2014), chuyên đề 3: Sắp xếp
 
 - [Sorting Algorithm - geeksforgeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+Ngoài ra, các bạn nên vào [visualgo - Sorting](https://visualgo.net/en/sorting) để xem cách hoạt động của các hàm sorting một cách trực quan nhất.
