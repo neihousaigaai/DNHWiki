@@ -12,7 +12,7 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 
 > #### [0. Getting Started](0-getting-started.md)
 > #### [1.1. Slow sort: Selection Sort](1.1-slow-sort-selection-sort.md)
-> #### [1.2. Slow sort: Bubble Sort]()
+> #### [1.2. Slow sort: Bubble Sort](1.2-slow-sort-bubble-sort.md)
 > #### [1.3. Slow sort: Easy Sort](1.3-slow-sort-easy-sort.md)
 > #### [2.1. Quick sort: Quick Sort]()
 > #### [2.2. Quick sort: Merge Sort]()
