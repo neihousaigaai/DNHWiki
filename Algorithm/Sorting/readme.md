@@ -8,7 +8,7 @@ Trường hợp xấu nhất xảy ra, nếu bạn không nhớ nổi thuật to
 
 Series này chỉ đề cập đến những thuật toán cơ bản nhất, để tìm hiểu kĩ hơn, các bạn có thể tìm hiểu trên Internet.
 
-**Mục lục những bài viết trong chuyên mục này:**
+#### Mục lục những bài viết trong chuyên mục này
 
 > #### [0. Getting Started](0-getting-started.md)
 > #### [1.1. Slow sort: Selection Sort](1.1-slow-sort-selection-sort.md)
@@ -25,10 +25,10 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 
 Mỗi bài sẽ đi kèm với 1 đoạn code demo với các ngôn ngữ Pascal, C++, Python.
 
-**Các kí hiệu sử dụng trong series này**
+#### Các kí hiệu sử dụng trong chuyên mục này
 
 Kí hiệu   | Ý nghĩa
-----------|-------------------
-`a[]`     | Mảng a 
-`a[i]  `  | Phần tử thứ i trong mảng a
-`a[l..r]` | Đoạn phần tử a[l], a[l+1],... a[r] (chỉ số trong đoạn từ l đến r)
+----------|-----------------------------------------------
+`a[]`     | Mảng `a` 
+`a[i]  `  | Phần tử thứ `i` trong mảng `a`, `i` là chỉ số
+`a[l..r]` | Các phần tử liên tiếp `a[l]`, `a[l+1]`,... `a[r]` (đoạn các phần tử có chỉ số trong đoạn từ `l` đến `r`)
