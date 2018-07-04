@@ -23,7 +23,7 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 > #### [3.4. Một (số) thuật toán "lạ" có áp dụng sự so sánh]()
 > #### [4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình](4-built-in-sort-function.md)
 
-Mỗi bài sẽ đi kèm với 1 đoạn code demo với các ngôn ngữ Pascal, C++, Python.
+Mỗi bài sẽ đi kèm với 1 đoạn code demo với các ngôn ngữ Pascal, C++.
 
 #### Các kí hiệu sử dụng trong chuyên mục này
 
