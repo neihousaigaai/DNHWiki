@@ -1,4 +1,4 @@
-# Document for Data Structure and Algorithm
+# Documents for Data Structure and Algorithm
 
 ## Danh sách các trang luyện giải thuật:
 - [Danh sách trên Quora](https://www.quora.com/What-are-the-various-online-programming-contests)
@@ -9,9 +9,18 @@
 - [ACM PTIT](http://www.spoj.com/PTIT/)
 
 ## Sách
-- Giải thuật lập trình - Lê Minh Hoàng (Pascal)
+- Giải thuật & Lập trình - Lê Minh Hoàng (Pascal)
+- Tài liệu giáo khoa chuyên Tin - Nhiều tác giả *(khuyến khích đọc sách giấy tái bản 2014, font dễ đọc hơn và ít mắc lỗi vặt so với bản 2009)*
 - Introduction to Algorithms, 3rd Ed - Không mấy dễ tiếp cận, tuy nhiên rất khuyên đọc nếu có kiến thức nền tốt để nâng cao hơn
 - Algorithms, 4th
+
+## Online sites
+### Tiếng Việt
+- [VNOI wiki](http://vnoi.info/wiki/Home)
+
+### Tiếng Anh
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- [e-maxx Algorithm in English](https://cp-algorithms.com/)
 
 ## Online course
 - [Khóa Algorithms của ĐH Stanford](https://www.coursera.org/specializations/algorithms)
@@ -32,8 +41,6 @@
 - Thinking in Algorithm của Rice University
   - [Part 1](https://www.coursera.org/learn/algorithmic-thinking-1)
   - [Part 2](https://www.coursera.org/learn/algorithmic-thinking-2)
-
-
 
 ## Các tài liệu khác
 - [Tổng hợp các kỹ thuật xử lý bit - Tiếng Anh](https://graphics.stanford.edu/~seander/bithacks.html)
