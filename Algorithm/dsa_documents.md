@@ -10,7 +10,7 @@
 
 ## Sách
 - Giải thuật & Lập trình - Lê Minh Hoàng (Pascal)
-- Tài liệu giáo khoa chuyên Tin - Nhiều tác giả *(khuyến khích đọc sách giấy tái bản 2014, font dễ đọc hơn và ít mắc lỗi vặt so với bản 2009)*
+- Tài liệu giáo khoa chuyên Tin - Nhiều tác giả *(khuyến khích đọc sách giấy tái bản 2014, font dễ đọc hơn và ít mắc lỗi vặt so với bản ebook (tái bản 2009))*
 - Introduction to Algorithms, 3rd Ed - Không mấy dễ tiếp cận, tuy nhiên rất khuyên đọc nếu có kiến thức nền tốt để nâng cao hơn
 - Algorithms, 4th
 
