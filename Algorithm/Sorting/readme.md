@@ -16,11 +16,11 @@ Series này chỉ đề cập đến những thuật toán cơ bản nhất, đ�
 > #### [1.3. Slow sort: Easy Sort](1.3-slow-sort-easy-sort.md)
 > #### [2.1. Quick sort: Quick Sort](2.1-quick-sort-quick-sort.md)
 > #### [2.2. Quick sort: Merge Sort](2.2-quick-sort-merge-sort.md)
-> #### [2.3. Distribution counting (Đếm phân phối)]()
-> #### [3.1. Sự so sánh (comparison)]()
+> #### [2.3. Distribution counting (Đếm phân phối)](2.3-distribution-counting.md)
+> #### [3.1. Sự so sánh (comparison)](3.1-comparison.md)
 > #### [3.2. Mở rộng: Các thuật toán sort với sự so sánh riêng]()
 > #### [3.3. Hard sort: ...](), có thể là Radix Sort (có thể dùng để sort với số thực)
-> #### [3.4. Một (số) thuật toán "lạ" có áp dụng sự so sánh]()
+> #### [3.4. Một (số) thuật toán "lạ" có áp dụng sự so sánh](3.4-algorithms-using-sorting.md)
 > #### [4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình](4-built-in-sort-function.md)
 
 Mỗi bài sẽ đi kèm với 1 đoạn code demo với ngôn ngữ C++.
