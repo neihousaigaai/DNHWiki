@@ -22,6 +22,23 @@ Hàm **`sort()`**.
 
 Ngoài ra còn có hàm `stable_sort()`.
 
+Ví dụ:
+
+```cpp
+// C++11 or upper
+
+int main() {
+    int a[] = { 2, 9, 1, 7, 5 };
+    int len_a = sizeof(a) / sizeof(a[0]);
+    sort(a, a + len_a); // 1 2 5 7 9
+    for (int i=0; i<len_a; i++) std::cout << a[i] << " "; std::cout << endl;
+
+    vector<int> b = { 3, 1, 9, 5, 6 };
+    sort(b.begin(), b.begin() + 3); // 1 3 9 5 6
+    for (int u: b) std::cout << u << " "; std::cout << endl;
+}
+```
+
 ## Java
 
 - `Arrays.sort()`: https://www.geeksforgeeks.org/arrays-sort-in-java-with-examples/
@@ -65,6 +82,11 @@ AttributeError: 'tuple' object has no attribute 'sort'
 ['a', 'b', 'c']
 >>> sorted(b.values(), reverse=True)
 ['c', 'b', 'a']
+>>>
+>>> c = [2, 9, 1, 7, 5]
+>>> c.sort()  # trả về None, không hiện gì sau đó cả
+>>> c
+[1, 2, 5, 7, 9]
 ```
 
 ## Tài liệu tham khảo
