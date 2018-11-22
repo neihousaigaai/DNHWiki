@@ -1,3 +1,5 @@
+# 4. Gọi hàm so sánh có sẵn đối với mỗi ngôn ngữ lập trình
+
 Chào mừng các bạn đến với mục Algorithm của DNHWiki.
 
 Sau khi đã nắm chắc cách hoạt động của các thuật toán sorting, bạn có thể tự tin viết lại code sắp xếp các phần tử trong mảng. Tuy nhiên, trong trường hợp các bạn không cần quá quan trọng việc code sorting mà cần nhanh chóng code những chức năng khác, hay bạn sợ cài sai code sorting, bạn có thể sử dụng hàm có sẵn của ngôn ngữ lập trình bạn sử dụng.
@@ -51,13 +53,11 @@ int main() {
 
 Xem hướng dẫn chi tiết ở [đây](https://docs.python.org/3/howto/sorting.html)
 
-- `sorted()`
+- `sorted()`: **Trả về 1 list đã được sort các giá trị,** y như tên của hàm.
 
-**Trả về 1 list đã được sort các giá trị,** y như tên của hàm.
+- `.sort()`: Phương thức sắp xếp **chỉ áp dụng cho list**, **tác động trực tiếp lên list**, và **trả về None**.
 
-- `.sort()`
-
-Phương thức sắp xếp **chỉ áp dụng cho list**, **tác động trực tiếp lên list**, và **trả về None**.
+Điều quan trọng nhất của cả 2 hàm/phương thức này là **key parameter**, kiểm soát tiêu chí so sánh phần tử của object (list, tuple,...).
 
 Ví dụ:
 
