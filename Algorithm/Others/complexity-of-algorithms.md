@@ -60,7 +60,7 @@ Thời gian máy của bạn chạy code một phần phụ thuộc vào cấu h
 Thông thường cỡ của dữ liệu vào là một số nguyên dương n, ta sử dụng hàm số T(n) trong đó n là cỡ của dữ liệu vào để biểu diễn thời thực hiện của một thuật toán.
 (Ví dụ: đối với bài toán kiểm tra số nguyên tố thì cỡ của dữ liệu vào là số `n` cần kiểm tra; hay với bài toán sắp xếp dãy số, cỡ của dữ liệu vào là số phần tử của dãy).
 
-Trong tài liệu này, chúng ta hiểu hàm số T(n) là thời gian nhiều nhất cần thiết để thực hiện thuật toán với mọi bộ dữ liệu đầu vào cỡ n.
+Trong tài liệu này, chúng ta hiểu hàm số T(n) là thời gian cần thiết để thực hiện thuật toán với bộ dữ liệu đầu vào cỡ n.
 
 Sử dụng kí hiệu toán học O (ô lớn) để mô tả độ lớn của hàm T(n). Giả sử n là một số nguyên dương, T(n) và f(n) là hai hàm thực không âm. Ta viết `T(n) = O(f(n))` nếu và chỉ nếu tồn tại các hằng số dương c và n_0, sao cho `T(n) <= c * f(n)`, với mọi `n >= n_0`.
 
