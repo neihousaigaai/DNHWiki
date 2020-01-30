@@ -113,7 +113,7 @@ Vậy T(n) = O(n^2), trong trường hợp này ta nói thuật toán có thời
 	} while (E);
 	```
 	```cpp
-	// S là câu lệnh, E1, E2 là các biểu thức logic và F là một phép gán
+	// S là câu lệnh, E1 là câu lệnh khỏi tạo, E2 là biểu thức logic và F là một phép gán
 	for (E1; E2; F) {
 		S;
 	}
